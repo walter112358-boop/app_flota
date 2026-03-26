@@ -1,4 +1,7 @@
 {
+  "nombre": "servis",
+  "version": 1,
+  "actualizado_en": "2026-03-26T19:37:41.533994-03:00",
   "columnas": [
     "INTERNO",
     "TIPO",
@@ -1287,5 +1290,8 @@
       "KM ULTIMO SERVICE DISTRIBUCION": "///",
       "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
     }
-  ]
+  ],
+  "hash_datos": "9aa24159ea65b1d8f23eed1535b3c66836e200bd9e6dbe8117f13d304403f8e0",
+  "estado": "cache_local",
+  "archivo": "servis.json"
 }

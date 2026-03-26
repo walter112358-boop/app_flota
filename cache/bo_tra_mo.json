@@ -1,4 +1,7 @@
 {
+  "nombre": "bo_tra_mo",
+  "version": 1,
+  "actualizado_en": "2026-03-26T19:37:41.166210-03:00",
   "columnas": [
     "MARCA / MODELO",
     "INTERNO",
@@ -396,5 +399,8 @@
       "DESCRIPCION": "NO FUNCIONAN LUCES",
       "DEPENDENCIA ACTUAL": "GER CABALLITO"
     }
-  ]
+  ],
+  "hash_datos": "b1fc4de3c1b3becbe739983b2ba9b9052a2d79df47accd4f94a62bee644de952",
+  "estado": "cache_local",
+  "archivo": "bo_tra_mo.json"
 }
