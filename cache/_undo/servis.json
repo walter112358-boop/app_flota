@@ -1,0 +1,1309 @@
+{
+  "version": 2,
+  "tab_id": "servis",
+  "max_pasos": 10,
+  "cursor": 0,
+  "stack": [
+    {
+      "columnas": [
+        "INTERNO",
+        "TIPO",
+        "KM ACTUAL",
+        "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)",
+        "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)",
+        "KM ULTIMO SERVICE DISTRIBUCION",
+        "FECHA ULTIMO SERVICE DISTRIBUCION"
+      ],
+      "filas": [
+        {
+          "INTERNO": "2082",
+          "TIPO": "NISSAN",
+          "KM ACTUAL": "4610",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO  se  realizo por ser 0 km",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO  se  realizo por ser 0 km",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO  se  realizo por ser 0 km",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO  se  realizo por ser 0 km"
+        },
+        {
+          "INTERNO": "2069",
+          "TIPO": "NO IDENTIFICABLE",
+          "KM ACTUAL": "3871",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "////",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3271",
+          "TIPO": "FORD FOCUS",
+          "KM ACTUAL": "157247",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "151932 KM",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "29/06/2022",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2127",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "84059",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "74565",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "28/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "ALQ14",
+          "TIPO": "AUTO PARTICULAR NO IDENTIFICABLE",
+          "KM ACTUAL": "43787",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "38656",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "08/09/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1219",
+          "TIPO": "CITROEN BERLINGO",
+          "KM ACTUAL": "71741",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "69646",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "07/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "50845",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "24/01/2022"
+        },
+        {
+          "INTERNO": "2101",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "99686",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "91145",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "25/08/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "93868",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "23/10/2025"
+        },
+        {
+          "INTERNO": "1204",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "78014",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "70467",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "14/03/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "50024",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "01/02/2023"
+        },
+        {
+          "INTERNO": "1214",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "125012",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "121767",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "03/03/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "101036",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "17/06/2025"
+        },
+        {
+          "INTERNO": "1218",
+          "TIPO": "Berlingo",
+          "KM ACTUAL": "119655",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "107672",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "18/11/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "107672",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "18/11/2025"
+        },
+        {
+          "INTERNO": "1203",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "145520",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "142107",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "10/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "142107",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "10/01/2025"
+        },
+        {
+          "INTERNO": "1189",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "83959",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "66202",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "9/19/2023",
+          "KM ULTIMO SERVICE DISTRIBUCION": "66202",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "9/19/2023"
+        },
+        {
+          "INTERNO": "2149",
+          "TIPO": "JUMPER",
+          "KM ACTUAL": "32394",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "13/01/2026",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "13/01/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "8354",
+          "TIPO": "FORD TRANSIT",
+          "KM ACTUAL": "997",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "8353",
+          "TIPO": "FORD TRANSIT",
+          "KM ACTUAL": "1404",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2100",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "81195",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "78155",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "19/11/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1215",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "162300",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "138069",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "04/01/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "115758",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "18/07/2022"
+        },
+        {
+          "INTERNO": "1206",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "53708",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "50991 KM",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "29/05/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "-///-",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "-///-"
+        },
+        {
+          "INTERNO": "NO POSEE UNIDAD ASIGNADA",
+          "TIPO": "",
+          "KM ACTUAL": "",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "1217",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "67766",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "55685",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "07/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "52283",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "12/07/2025"
+        },
+        {
+          "INTERNO": "2151",
+          "TIPO": "JUMPER",
+          "KM ACTUAL": "59525",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "54060",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "02/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "54060",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "02/07/2025"
+        },
+        {
+          "INTERNO": "1183",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "73827",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "68903",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "16-04-2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "68903",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "16-04-2025"
+        },
+        {
+          "INTERNO": "2111",
+          "TIPO": "FORD RANGER DOBLE CABINA",
+          "KM ACTUAL": "77000",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "93174",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "18/02/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "93174",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "24/02/2026"
+        },
+        {
+          "INTERNO": "2119",
+          "TIPO": "FORD RANGER DOBLE CABINA",
+          "KM ACTUAL": "99583",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "92581",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "18/02/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "92581",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "27/02/2026"
+        },
+        {
+          "INTERNO": "2132",
+          "TIPO": "FORD RANGER CABINA SIMPLE",
+          "KM ACTUAL": "54321",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2130",
+          "TIPO": "FORD RANGER CABINA SIMPLE",
+          "KM ACTUAL": "35658",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "32572",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "31/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "2644",
+          "TIPO": "UNIDAD CONVENCIONAL",
+          "KM ACTUAL": "57191",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "49393",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "07/05/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9351",
+          "TIPO": "UNIDAD DE RESCATE",
+          "KM ACTUAL": "44552",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "40452",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "05/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "1170",
+          "TIPO": "JUMPER",
+          "KM ACTUAL": "47904",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "44140",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "09/06/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2152",
+          "TIPO": "JUMPER",
+          "KM ACTUAL": "29578",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "26955",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "15/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2109",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "77402",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "73879",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "15/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2114",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "53831",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "48073",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "20/09/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO"
+        },
+        {
+          "INTERNO": "1167",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "78062",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "72921",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "14/03/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "57624",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "27/06/2023"
+        },
+        {
+          "INTERNO": "1169",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "91676",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "84062",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "01/10/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "81501",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "28/05/2024"
+        },
+        {
+          "INTERNO": "9157",
+          "TIPO": "MERCEDES BENZ",
+          "KM ACTUAL": "69043",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "69043",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "12/05/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2746",
+          "TIPO": "MERCEDES BENZ",
+          "KM ACTUAL": "33577",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "33577",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "06/10/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2747",
+          "TIPO": "IVECO",
+          "KM ACTUAL": "4166",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "08/10/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2749",
+          "TIPO": "IVECO",
+          "KM ACTUAL": "///",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2750",
+          "TIPO": "IVECO",
+          "KM ACTUAL": "9071",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "9071",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "05/02/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2751",
+          "TIPO": "IVECO",
+          "KM ACTUAL": "9246",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "9246",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "29/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9204",
+          "TIPO": "PIERCE",
+          "KM ACTUAL": "58154",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "06/11/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "346",
+          "TIPO": "MERCEDES BENZ",
+          "KM ACTUAL": "130247",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "124785",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "04/11/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1188",
+          "TIPO": "BERLINGO N/I",
+          "KM ACTUAL": "85539",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "85224",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "26/02/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "2632",
+          "TIPO": "IVECO DAILY MORGUERA",
+          "KM ACTUAL": "185493",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "164326",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "22/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "2633",
+          "TIPO": "IVECO DAILY MORGUERA",
+          "KM ACTUAL": "167392",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "152.859",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "30/05/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "2634",
+          "TIPO": "IVECO DAILY MORGUERA",
+          "KM ACTUAL": "A PRESTAMO OCOB",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "181010",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "22/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "1321",
+          "TIPO": "FORD F-100 MORGUERA",
+          "KM ACTUAL": "195079",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "194392",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "14/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "930",
+          "TIPO": "IVECO DAILY MORGUERA",
+          "KM ACTUAL": "150514",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "133737",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "22/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "2131",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "63237",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "60155",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "28/09/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2117",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "121558",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "114245",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "18/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2139",
+          "TIPO": "JUMPER",
+          "KM ACTUAL": "51658",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "48574",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "02/09/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2104",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "116075",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "108960",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "02/09/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2103",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "116785",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "115618",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "18/01/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "53188",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "29/07/2020"
+        },
+        {
+          "INTERNO": "2639",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "29377",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "29367",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "22/08/23",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN"
+        },
+        {
+          "INTERNO": "9319",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "123040",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "120065",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "14/01/26",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN"
+        },
+        {
+          "INTERNO": "2654",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "143688",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "130376",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "07/01/2007",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN"
+        },
+        {
+          "INTERNO": "2019",
+          "TIPO": "MAN",
+          "KM ACTUAL": "ODÓMETRO F/S NO SE VISUALIZA KM",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "SIN INFORMACIÓN",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "06/11/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN"
+        },
+        {
+          "INTERNO": "2121",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "75827",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "58500",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "27/05/24",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN"
+        },
+        {
+          "INTERNO": "1695",
+          "TIPO": "CORSA",
+          "KM ACTUAL": "174997",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "170602",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "20/05/24",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN INFORMACIÓN"
+        },
+        {
+          "INTERNO": "2645",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "20039",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY DATOS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2670",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "130824",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY DATOS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "347",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "119140",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "88848",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "05/12/2019",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "346",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "130240",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "103172",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "18/02/2022",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2129",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "106695",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "103413",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "13/01/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1184",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "150594",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "125415",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "08/10/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2676",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "100418",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "98016",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "16/10/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2671",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "136795",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "98776",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "10/01/2019",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2745",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "11712",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "11245",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "18/02/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2122",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "85028",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "78162",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "19/09/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1212",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "128243",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTRO.",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTRO.",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTRO",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTRO"
+        },
+        {
+          "INTERNO": "9173",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO FUNCIONA ODOMETRO",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO SE LE HIZO SERVIS",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2150",
+          "TIPO": "JUMPER",
+          "KM ACTUAL": "50917",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "45524",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "20/08/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3234",
+          "TIPO": "POLARIS",
+          "KM ACTUAL": "26855",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "////",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "////",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3987",
+          "TIPO": "CUATRICICLO",
+          "KM ACTUAL": "18585",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "////",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "/////",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9161",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "2677",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1210",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "57656",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "52576",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "19/12/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "solicitado",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "solicitado"
+        },
+        {
+          "INTERNO": "2164",
+          "TIPO": "FRONTIER",
+          "KM ACTUAL": "5970",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3358",
+          "TIPO": "NO IDENTIFICABLE",
+          "KM ACTUAL": "169980",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "169408",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "17 – OCTUBRE – 2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "169404",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "07 – NOVIEMBRE – 2025"
+        },
+        {
+          "INTERNO": "2773",
+          "TIPO": "LOGAN",
+          "KM ACTUAL": "370564",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "369255",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "22/04/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1220",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "TRAMITE BAJA",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "109548",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "25/07/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2675",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "139375",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "139179",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "21/02/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2659",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "125158",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "117500",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "27/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "PMA",
+          "TIPO": "Puesto medico",
+          "KM ACTUAL": "13103",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "12/12/2019",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "G.E",
+          "TIPO": "ELECROGENO",
+          "KM ACTUAL": "989 Horas",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "09/04/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2123",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "112252",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "100653",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "07/05/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "Recomendado a los 250.000km(cadena)",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3985",
+          "TIPO": "CUATRICICLO",
+          "KM ACTUAL": "///",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "Sin odometro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "24/09/2019",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3986",
+          "TIPO": "CUATRICICLO",
+          "KM ACTUAL": "///",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "Sin odometro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "20/10/2020",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2668",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "///",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "Se le fue agregando pero no hecho el cambio de aceite",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9174",
+          "TIPO": "HIDROELEVADOR",
+          "KM ACTUAL": "25931",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2640",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "44575",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "33064",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "17/08/2023",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO POSEE",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO POSEE"
+        },
+        {
+          "INTERNO": "9005",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "121602",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "119819",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "03/02/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "121394",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "05/03/2026"
+        },
+        {
+          "INTERNO": "2672",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "118804",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO SE POSEEN DATOS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO SE POSEEN DATOS",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO SE POSEEN DATOS",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO SE POSEEN DATOS"
+        },
+        {
+          "INTERNO": "2680",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "59151",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "58540",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "07/01/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "09/04/2060",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "07/01/2025"
+        },
+        {
+          "INTERNO": "2651",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "114690",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO SE POSEEN DATOS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO SE POSEEN DATOS",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO SE POSEEN DATOS",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO SE POSEEN DATOS"
+        },
+        {
+          "INTERNO": "2656",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "103332",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO SE POSEEN DATOS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "11/01/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO SE POSEEN DATOS",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO SE POSEEN DATOS"
+        },
+        {
+          "INTERNO": "2107",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "89963",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "78785",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "20/03/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO POSEE",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO POSEE"
+        },
+        {
+          "INTERNO": "1168",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "103364",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "99079",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "27/12/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO POSEE",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO POSEE"
+        },
+        {
+          "INTERNO": "2638",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "37139",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "KM ULTIMO SERVICE DISTRIBUCION": "No se tiene registro",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "No se tiene registro"
+        },
+        {
+          "INTERNO": "2665",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "120427",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "KM ULTIMO SERVICE DISTRIBUCION": "No se tiene registro",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "No se tiene registro"
+        },
+        {
+          "INTERNO": "2105",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "49726",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "47542",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "20-01-2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "No se tiene registro",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "No se tiene registro"
+        },
+        {
+          "INTERNO": "3237",
+          "TIPO": "POLARIS",
+          "KM ACTUAL": "4172",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "KM ULTIMO SERVICE DISTRIBUCION": "No se tiene registro",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "No se tiene registro"
+        },
+        {
+          "INTERNO": "3236",
+          "TIPO": "POLARIS",
+          "KM ACTUAL": "RADIADO",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "KM ULTIMO SERVICE DISTRIBUCION": "No se tiene registro",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "No se tiene registro"
+        },
+        {
+          "INTERNO": "3981",
+          "TIPO": "CUATRICICLO",
+          "KM ACTUAL": "11611",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "KM ULTIMO SERVICE DISTRIBUCION": "No se tiene registro",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "No se tiene registro"
+        },
+        {
+          "INTERNO": "6441",
+          "TIPO": "CUATRICICLO",
+          "KM ACTUAL": "54467",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "No se tiene registro",
+          "KM ULTIMO SERVICE DISTRIBUCION": "No se tiene registro",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "No se tiene registro"
+        },
+        {
+          "INTERNO": "2641",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "29092",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9000",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "54883",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "34691",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2660",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "98085",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "92610",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "28/02/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2125",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "109226",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "75717",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "25/10/2023",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2666",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "104756",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3982",
+          "TIPO": "CUATRICICLO",
+          "KM ACTUAL": "1144",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3017",
+          "TIPO": "FIAT SIENA",
+          "KM ACTUAL": "F/S",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "263463",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "29/05/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2642",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "48785",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "47978",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "04/03/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "47978",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "04/03/2026"
+        },
+        {
+          "INTERNO": "2669",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "111673",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "103084",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "13/09/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "103084",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "13/09/2024"
+        },
+        {
+          "INTERNO": "8371",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "11358",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "6946",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "26/05/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "6946",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "26/05/2025"
+        },
+        {
+          "INTERNO": "2635",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "48798",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "46321",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "19/03/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "46321",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "19/03/2025"
+        },
+        {
+          "INTERNO": "2658",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "///",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2126",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "75149",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "67205",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "08/08/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "67205",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "08/08/2025"
+        },
+        {
+          "INTERNO": "1166",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "122861",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "114343",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "26/08/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "114343",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "26/08/2026"
+        },
+        {
+          "INTERNO": "3983",
+          "TIPO": "CUATRICICLO",
+          "KM ACTUAL": "NO TIENE ODOMETRO",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2636",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "38543",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS"
+        },
+        {
+          "INTERNO": "2662",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "112112",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "107070",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "19/01/2026",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN REGISTRO",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN REGISTRO"
+        },
+        {
+          "INTERNO": "2653",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "142253",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS"
+        },
+        {
+          "INTERNO": "2667",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "140383",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS"
+        },
+        {
+          "INTERNO": "2106",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "49533",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "SIN REGISTRO",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "02/12/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "SIN REGISTRO",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "SIN REGISTRO"
+        },
+        {
+          "INTERNO": "2110",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "62421",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "",
+          "KM ULTIMO SERVICE DISTRIBUCION": "",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": ""
+        },
+        {
+          "INTERNO": "1161",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "103450",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "KM ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "NO HAY REGISTROS"
+        },
+        {
+          "INTERNO": "2643",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "34217",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "55590",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "10/06/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9004",
+          "TIPO": "CISTERNA",
+          "KM ACTUAL": "684860",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "681234",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "27/10/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "31/05/2012"
+        },
+        {
+          "INTERNO": "2657",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "45980",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2637",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "41323",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2681",
+          "TIPO": "USINA",
+          "KM ACTUAL": "55939",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2118",
+          "TIPO": "RANGER",
+          "KM ACTUAL": "72575",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "67265",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "16/12/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "1171",
+          "TIPO": "BERLINGO",
+          "KM ACTUAL": "111363",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "95115",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "30/10/2024",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2138",
+          "TIPO": "UAR",
+          "KM ACTUAL": "34328",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "31280",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "24/05/2025",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "S/N",
+          "TIPO": "ALLIGHT",
+          "KM ACTUAL": "///",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9052",
+          "TIPO": "HIDROELEVADOR",
+          "KM ACTUAL": "22128",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2673",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "126128",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2675",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "A/P EN ESTACION X \"LUGANO\"",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2666",
+          "TIPO": "ZONDA",
+          "KM ACTUAL": "A/P EN ESTACION III \"BARRACAS\"",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "3237",
+          "TIPO": "POLARIS",
+          "KM ACTUAL": "A PRESTAMO EN ESTACION I \"PUERTO MADERO\"",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "2677",
+          "TIPO": "CONVENCIONAL",
+          "KM ACTUAL": "EN TALLER ANDRES",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        },
+        {
+          "INTERNO": "9051",
+          "TIPO": "HIDROELEVADOR",
+          "KM ACTUAL": "EN TALLER ARD",
+          "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)": "NO HAY REGISTROS",
+          "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)": "///",
+          "KM ULTIMO SERVICE DISTRIBUCION": "///",
+          "FECHA ULTIMO SERVICE DISTRIBUCION": "///"
+        }
+      ],
+      "orden_columnas": [
+        "INTERNO",
+        "TIPO",
+        "KM ACTUAL",
+        "KM ULTIMO SERVICE (FLUIDOS Y FILTROS)",
+        "FECHA ULTIMO SERVICE (FLUIDOS Y FILTROS)",
+        "KM ULTIMO SERVICE DISTRIBUCION",
+        "FECHA ULTIMO SERVICE DISTRIBUCION"
+      ],
+      "motivo": "estado_inicial"
+    }
+  ]
+}

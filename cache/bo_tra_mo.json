@@ -1,0 +1,400 @@
+{
+  "columnas": [
+    "MARCA / MODELO",
+    "INTERNO",
+    "TIPO",
+    "ESTADO",
+    "AVERIA",
+    "DESCRIPCION",
+    "DEPENDENCIA ACTUAL"
+  ],
+  "filas": [
+    {
+      "MARCA / MODELO": "MARCA: HIFEI    MODELO HSD 270",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "-///-",
+      "DESCRIPCION": "BOTE INFLABLE",
+      "DEPENDENCIA ACTUAL": "ESTACION II"
+    },
+    {
+      "MARCA / MODELO": "SEMIRRIGIDO HIFEI",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "-///-",
+      "DESCRIPCION": "-///-",
+      "DEPENDENCIA ACTUAL": "ESTACION III"
+    },
+    {
+      "MARCA / MODELO": "SEMIRRIGIOD BIM",
+      "INTERNO": "3064",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "-///-",
+      "DESCRIPCION": "-///-",
+      "DEPENDENCIA ACTUAL": "ESTACION III"
+    },
+    {
+      "MARCA / MODELO": "SEMIRRIGIDO MARCA HIFEI",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "///",
+      "DESCRIPCION": "///",
+      "DEPENDENCIA ACTUAL": "ESTACION IV"
+    },
+    {
+      "MARCA / MODELO": "BIM Modelo SRLIO43C",
+      "INTERNO": "4749",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "S/N",
+      "DESCRIPCION": "S/N",
+      "DEPENDENCIA ACTUAL": "ESTACION V"
+    },
+    {
+      "MARCA / MODELO": "HiFei Modelo HSD460",
+      "INTERNO": "4752",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "S/N",
+      "DESCRIPCION": "S/N",
+      "DEPENDENCIA ACTUAL": "ESTACION V"
+    },
+    {
+      "MARCA / MODELO": "BIM Modelo SRLIG43",
+      "INTERNO": "3067",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "S/N",
+      "DESCRIPCION": "S/N",
+      "DEPENDENCIA ACTUAL": "ESTACION V"
+    },
+    {
+      "MARCA / MODELO": "SEMIRRIGIDO \"HIFEI\" HSB460",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "ESTACION VI"
+    },
+    {
+      "MARCA / MODELO": "BOTE HIFEI",
+      "INTERNO": "S/N",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "ESTACION IX"
+    },
+    {
+      "MARCA / MODELO": "BOTE BIM",
+      "INTERNO": "S/N",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "ESTACION IX"
+    },
+    {
+      "MARCA / MODELO": "BOTE BIM",
+      "INTERNO": "S/N",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "S/N",
+      "DESCRIPCION": "S/N",
+      "DEPENDENCIA ACTUAL": "ESTACION X"
+    },
+    {
+      "MARCA / MODELO": "BOTE BIM",
+      "INTERNO": "4726",
+      "TIPO": "BOTE",
+      "ESTADO": "F/S",
+      "AVERIA": "PINCHADURA",
+      "DESCRIPCION": "SIN PRECISAR DONDE (A/P EST. VIII \"NUEVA CHICAGO\")",
+      "DEPENDENCIA ACTUAL": "ESTACION XI"
+    },
+    {
+      "MARCA / MODELO": "SEMIRRÍGIDO BIM (GALLO) MOTOR MERCURY 40 HP",
+      "INTERNO": "4595",
+      "TIPO": "BOTE",
+      "ESTADO": "F/S",
+      "AVERIA": "",
+      "DESCRIPCION": "PROBLEMAS DE CARBURACIÓN Y CIRCUITO DE COMBUSTIBLE (PEDIDO DE REPARACIÓN  08/11/23)",
+      "DEPENDENCIA ACTUAL": "GER SAAVEDRA"
+    },
+    {
+      "MARCA / MODELO": "SEMIRRIGIDO HIGH-FIELD CON MOTOR 50 HP TOHATSU",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "GER SAAVEDRA"
+    },
+    {
+      "MARCA / MODELO": "BALSA INFLABLE (rafting) BIM",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "GER SAAVEDRA"
+    },
+    {
+      "MARCA / MODELO": "BALSA INFLABLE (con piso encastrable) HI-FEI",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "A PRESTAMO DESTACAMENTO GER CABALLITO",
+      "DEPENDENCIA ACTUAL": "GER SAAVEDRA"
+    },
+    {
+      "MARCA / MODELO": "BOTE SEMIRRIGIDO BIM CORINA CON  MOTOR MERCURY 40 HP",
+      "INTERNO": "4595",
+      "TIPO": "BOTE",
+      "ESTADO": "F/S",
+      "AVERIA": "MOTOR",
+      "DESCRIPCION": "PROBLEMA DE ARRANQUE",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "BOTE SEMIRRIGIDO BIM CON  MOTOR MERCURY 40 HP",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "///",
+      "DESCRIPCION": "PRESTAMO DE SAAVEDRA",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "HIGHFIELD - MOTOR TOHATSU 50 HP",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "F/S",
+      "AVERIA": "MOTOR",
+      "DESCRIPCION": "PROBLEMA DE ARRANQUE",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "BALSA INFLABLE",
+      "INTERNO": "NO POSEE",
+      "TIPO": "BOTE",
+      "ESTADO": "P/S",
+      "AVERIA": "///",
+      "DESCRIPCION": "///",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "MOTOR 40 HP MERCURY",
+      "INTERNO": "4750",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "PROBLEMA DE CARBURACION",
+      "DESCRIPCION": "FALLA EN LA LLEGADA DEL COMBUSTIBLE",
+      "DEPENDENCIA ACTUAL": "ESTECION II"
+    },
+    {
+      "MARCA / MODELO": "TANQUE DE COMBUSTIBLE",
+      "INTERNO": "3067",
+      "TIPO": "MOTOR",
+      "ESTADO": "P/S",
+      "AVERIA": "-///-",
+      "DESCRIPCION": "-///-",
+      "DEPENDENCIA ACTUAL": "ESTACION II"
+    },
+    {
+      "MARCA / MODELO": "BIM",
+      "INTERNO": "3064",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "PROBLEMA DE CARBURACION",
+      "DESCRIPCION": "FALLA EN LA LLEGADA DEL COMBUSTIBLE",
+      "DEPENDENCIA ACTUAL": "ESTACION II"
+    },
+    {
+      "MARCA / MODELO": "MERCURY HP SEAN PRO",
+      "INTERNO": "NO POSEE",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "BOMBIN DE COMBUSTIBLE",
+      "DESCRIPCION": "BOMBIN DE INYECTOR DE COMUBUSTIBLE ROTO",
+      "DEPENDENCIA ACTUAL": "ESTACION V"
+    },
+    {
+      "MARCA / MODELO": "MERCURY HP 40",
+      "INTERNO": "NO POSEE",
+      "TIPO": "MOTOR",
+      "ESTADO": "P/S",
+      "AVERIA": "PROBLEMA DE CARBURACION / MANGUERA PINCHADA",
+      "DESCRIPCION": "REALIZAR CARBURACION/REALIZAR CAMBIO DE MANGUERAS DE COMBUSTIBLE  MOTOR",
+      "DEPENDENCIA ACTUAL": "ESTACION X"
+    },
+    {
+      "MARCA / MODELO": "MERCURY HP 40",
+      "INTERNO": "NO POSEE",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "PROBLEMA DE ARRANQUE",
+      "DESCRIPCION": "POSIBLE ROTURA DE JUNTAS (A/P GER CABALLITO)",
+      "DEPENDENCIA ACTUAL": "ESTACION XI"
+    },
+    {
+      "MARCA / MODELO": "MOTOR 40 HP MERCURY",
+      "INTERNO": "4726",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "PROBLEMA DE ARRANQUE",
+      "DESCRIPCION": "PROBLEMA DE CARBURACIÓN Y COMPONENTES DE ALIMENTACIÓN DE COMBUSTIBLE (DTO. CABALLITO)",
+      "DEPENDENCIA ACTUAL": "GER SAAVEDRA"
+    },
+    {
+      "MARCA / MODELO": "MERCURY 40HP",
+      "INTERNO": "4726",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "MOTOR",
+      "DESCRIPCION": "PROBLEMA DE ARRANQUE",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "SUSUKI 40 HP",
+      "INTERNO": "4605",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "MOTOR",
+      "DESCRIPCION": "PROBLEMA DE ARRANQUE",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "MARINER  25HP",
+      "INTERNO": "4725",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "MOTOR",
+      "DESCRIPCION": "PROBLEMA DE ARRANQUE",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "JOHNSON 25 HP",
+      "INTERNO": "4479",
+      "TIPO": "MOTOR",
+      "ESTADO": "F/S",
+      "AVERIA": "MOTOR",
+      "DESCRIPCION": "PROBLEMA DE ARRANQUE",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "-///-",
+      "INTERNO": "-///-",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "PROBLEMA ELECTRICO",
+      "DESCRIPCION": "LUCES QUEMADAS",
+      "DEPENDENCIA ACTUAL": "ESTACION III"
+    },
+    {
+      "MARCA / MODELO": "SIN MARCA",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "ESTACION IV"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "ASIGNADO AL BOTE 4749",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "Rueda delantera rota - faltante de chaveta de seguridad del acople de la bocha de remolque - luces traseras funcionan con defectos (al frenar se encienden los giros y al colocar los giros se enciende el Stop)",
+      "DEPENDENCIA ACTUAL": "ESTACION V"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "ASIGNADO AL BOTE 4752",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "S/N",
+      "DESCRIPCION": "El trailer no corresponde  al bote asignado (HiFei) corresponde a un Bote semirígido marca BIM - Base de Madera de apoyo rota - No posee fichas de conexión de luces - No posee luces traseras -Faltante de chaveta de seguridad del acople de la bocha de remolque - Sin cadenas de seguridad.",
+      "DEPENDENCIA ACTUAL": "ESTACION V"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "ASIGNADO AL BOTE 3067",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "S/N",
+      "DESCRIPCION": "Luces traseras sin funcionar por cableado quemado - faros traseros rotos - faltante de guardabarros izquierdo - faltante de paragolpe",
+      "DEPENDENCIA ACTUAL": "ESTACION V"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "ESTACION IX"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "PROBLEMAS ELECTRICOS/RIELES DE MADERA/PIE DE APOYO RUEDA",
+      "DESCRIPCION": "NO POSEE CABLE/CARCAZAS/LUCES/FALTANTE DE TORNILLO/RIEL LADO DERECHO NO POSEE",
+      "DEPENDENCIA ACTUAL": "ESTACION X"
+    },
+    {
+      "MARCA / MODELO": "MAC TRAIL",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "F/S",
+      "AVERIA": "PROBLEMA ELECTRICO",
+      "DESCRIPCION": "NO FUNCIONAN LUCES (A/P EST. VIII \"NUEVA CHICAGO\")",
+      "DEPENDENCIA ACTUAL": "ESTACION XI"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "PROBLEMA ELÉCTRICO",
+      "DESCRIPCION": "NO FUNCIONAN LUCES",
+      "DEPENDENCIA ACTUAL": "GER SAAVEDRA"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "",
+      "DESCRIPCION": "",
+      "DEPENDENCIA ACTUAL": "GER SAAVEDRA"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "PROBLEMA ELECTRICO",
+      "DESCRIPCION": "NO FUNCIONAN LUCES",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    },
+    {
+      "MARCA / MODELO": "TRAILER",
+      "INTERNO": "NO POSEE",
+      "TIPO": "TRAILER",
+      "ESTADO": "P/S",
+      "AVERIA": "PROBLEMA ELECTRICO",
+      "DESCRIPCION": "NO FUNCIONAN LUCES",
+      "DEPENDENCIA ACTUAL": "GER CABALLITO"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 5,
+  "actualizado_en": "2026-03-26T18:45:16.796901-03:00",
+  "intervalo_km": 75000,
+  "intervalo_dias": 365,
+  "aviso_km_verde": 5000,
+  "aviso_km_amarillo": 2000,
+  "aviso_km_naranja": 500,
+  "aviso_km": 500,
+  "aviso_dias_verde": 30,
+  "aviso_dias_amarillo": 15,
+  "aviso_dias_naranja": 3,
+  "aviso_dias": 3,
+  "reglas": []
+}

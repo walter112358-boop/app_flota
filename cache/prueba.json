@@ -1,0 +1,50 @@
+{
+  "nombre": "prueba",
+  "version": 1,
+  "actualizado_en": "2026-03-26T19:14:58.672038-03:00",
+  "columnas": [
+    "carrera",
+    "como estas",
+    "esta es una prueba",
+    "carrera copia",
+    "como estas copia",
+    "esta es una prueba copia"
+  ],
+  "filas": [
+    {
+      "carrera": "aaaaaaaaa",
+      "como estas": "bbbbbbbb",
+      "esta es una prueba": "ccccccccccccccc",
+      "carrera copia": "aaaaaaaaa",
+      "como estas copia": "bbbbbbbb",
+      "esta es una prueba copia": "ccccccccccccccc"
+    },
+    {
+      "carrera": "dddddddddd",
+      "como estas": "eeeeeeeeeeee",
+      "esta es una prueba": "ffffffffffff",
+      "carrera copia": "dddddddddd",
+      "como estas copia": "dfdfdfd",
+      "esta es una prueba copia": "ffffffffffff"
+    },
+    {
+      "carrera": "gggggggggggg",
+      "como estas": "hhhhhhhhhhhhhh",
+      "esta es una prueba": "iiiiiiiiiiiiii",
+      "carrera copia": "",
+      "como estas copia": "hhhhhhhhhhhhhh",
+      "esta es una prueba copia": "iiiiiiiiiiiiii"
+    },
+    {
+      "carrera": "jjjjjjjjjjjjjjj",
+      "como estas": "kkkkkkkkkkkkk",
+      "esta es una prueba": "lllllllllllllll",
+      "carrera copia": "jjjjjjjjjjjjjjj",
+      "como estas copia": "kkkkkkkkkkkkk",
+      "esta es una prueba copia": "lllllllllllllll"
+    }
+  ],
+  "hash_datos": "b81ea332fd51e2e31e0b1500b37ca68002168f9e699cc2c6946f798f67c452d3",
+  "estado": "cache_local",
+  "archivo": "prueba.json"
+}
