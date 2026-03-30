@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-03-26T19:37:40.854500-03:00",
+  "actualizado_en": "2026-03-30T19:19:02.238906-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -48,7 +48,7 @@
     {
       "DEPENDENCIA": "ESTACION II",
       "INTERNO": "2640",
-      "MARCA": "IVECO",
+      "MARCA": "IVECOOO",
       "MODELO": "T. ATTACK 170e22",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "ARD",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "8b8defd151aa73e96ac842720d90c2e8d9d9bb68ff1c808f84cf61fc6000a6b5",
+  "hash_datos": "32de1291c685398d8d109ed1d9e3c40f6dac7e0caf790b7525d5e851003af805",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
