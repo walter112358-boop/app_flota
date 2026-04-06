@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-06T17:06:55.128962-03:00",
+  "actualizado_en": "2026-04-06T17:24:37.136295-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -34,7 +34,7 @@
     {
       "DEPENDENCIA": "ESTACION IV",
       "INTERNO": "8371",
-      "MARCA": "nuevo",
+      "MARCA": "nuevo 3333",
       "MODELO": "prueba",
       "UTILIDAD": "prueba",
       "CARROZADO": "ddd",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "0571fe6deec4a8690e561f1429a47fbbce81632d6486df0136b9cecc0c268199",
+  "hash_datos": "e51d6e17c617d58d948a6bf5a069d088bbf315f0d200847369be763fc223cb34",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
