@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "tabs": [
+    {
+      "tab_id": "grilla",
+      "nombre": "Grilla",
+      "columnas": [
+        "INTERNO",
+        "DEP. ORIGEN",
+        "DEP. ACTUAL",
+        "ESTADO",
+        "UNIDAD",
+        "MARCA",
+        "MODELO",
+        "TALLER",
+        "OBSERVACIONES"
+      ],
+      "tipo_base": "Grilla",
+      "bootstrap_relpath": ""
+    },
+    {
+      "tab_id": "incidentes",
+      "nombre": "Incidentes",
+      "columnas": [
+        "FECHA",
+        "INTERNO",
+        "INCIDENTE",
+        "LUGAR",
+        "OBSERVACIONES"
+      ],
+      "tipo_base": "Incidentes",
+      "bootstrap_relpath": ""
+    },
+    {
+      "tab_id": "gh_ytorres",
+      "nombre": "GH yTorres",
+      "columnas": [
+        "FECHA",
+        "INTERNO",
+        "EQUIPO",
+        "ESTADO",
+        "OBSERVACIONES"
+      ],
+      "tipo_base": "GH yTorres",
+      "bootstrap_relpath": ""
+    },
+    {
+      "tab_id": "carrozado",
+      "nombre": "Carrozado",
+      "columnas": [
+        "FECHA",
+        "INTERNO",
+        "TRABAJO",
+        "ESTADO",
+        "OBSERVACIONES"
+      ],
+      "tipo_base": "Carrozado",
+      "bootstrap_relpath": ""
+    },
+    {
+      "tab_id": "bo_tra_mo",
+      "nombre": "bo-tra-mo",
+      "columnas": [
+        "MARCA / MODELO",
+        "INTERNO",
+        "TIPO",
+        "ESTADO",
+        "AVERIA",
+        "DESCRIPCION",
+        "DEPENDENCIA ACTUAL"
+      ],
+      "tipo_base": "bo-tra-mo",
+      "bootstrap_relpath": "data_tabs/bo_tra_mo.json"
+    },
+    {
+      "tab_id": "historicos",
+      "nombre": "Historicos",
+      "columnas": [
+        "FECHA",
+        "INTERNO",
+        "EVENTO",
+        "DETALLE",
+        "OBSERVACIONES"
+      ],
+      "tipo_base": "Historicos",
+      "bootstrap_relpath": ""
+    },
+    {
+      "tab_id": "prueba",
+      "nombre": "prueba",
+      "columnas": [
+        "CAMPO 1",
+        "CAMPO 2",
+        "OBSERVACIONES"
+      ],
+      "tipo_base": "custom",
+      "bootstrap_relpath": ""
+    }
+  ]
+}

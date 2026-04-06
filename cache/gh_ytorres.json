@@ -1,7 +1,7 @@
 {
   "nombre": "gh_ytorres",
   "version": 1,
-  "actualizado_en": "2026-04-06T16:04:24.317803-03:00",
+  "actualizado_en": "2026-04-06T16:44:58.375984-03:00",
   "columnas": [
     "DEPENDENCIA",
     "MARCA",
@@ -27,7 +27,7 @@
     },
     {
       "DEPENDENCIA": "ESTACION I \"PUERTO MADERO\"",
-      "MARCA": "prueba",
+      "MARCA": "nuevo",
       "MODELO": "prueba",
       "POTENCIA": "prueba",
       "FASES": "MONOFASICO",
@@ -653,7 +653,7 @@
       "TIPO": "GRUPO ELECTROGENO"
     }
   ],
-  "hash_datos": "7bc056d273f5de2e5559d0c3741aaaeebb1a4d2392a4c81abc1a270d5aedf6c5",
+  "hash_datos": "73cb03f46340a3b0db1a07dd12bc1eabaa74d06d44698a600d0185ef824efe77",
   "estado": "cache_local",
   "archivo": "gh_ytorres.json"
 }
