@@ -1,7 +1,7 @@
 {
   "nombre": "bo_tra_mo",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:01:46.486299-03:00",
+  "actualizado_en": "2026-04-06T13:26:28.941572-03:00",
   "columnas": [
     "MARCA / MODELO",
     "INTERNO",
@@ -15,7 +15,7 @@
     {
       "MARCA / MODELO": "MARCA: HIFEI    MODELO HSD 270",
       "INTERNO": "NO POSEE",
-      "TIPO": "eeeeeeee",
+      "TIPO": "IVECON",
       "ESTADO": "P/S",
       "AVERIA": "-///-",
       "DESCRIPCION": "BOTE INFLABLE",
@@ -400,7 +400,7 @@
       "DEPENDENCIA ACTUAL": "GER CABALLITO"
     }
   ],
-  "hash_datos": "be47e09ad5c09b1fdb390ca40fa0fd511063ee39b862495a98b1bccbfbf4c420",
+  "hash_datos": "069bcc2fedd0bb87473b388623827149621d94aaab8b7c2aed520c79b9567b84",
   "estado": "cache_local",
   "archivo": "bo_tra_mo.json"
 }

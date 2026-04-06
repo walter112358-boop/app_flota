@@ -1,7 +1,7 @@
 {
   "nombre": "historicos",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:01:46.572338-03:00",
+  "actualizado_en": "2026-04-06T13:26:35.903764-03:00",
   "columnas": [
     "FECHA SOLICITUD",
     "INTERNO",
@@ -18,7 +18,7 @@
   "filas": [
     {
       "FECHA SOLICITUD": "2024-01-02",
-      "INTERNO": "2129",
+      "INTERNO": "2129 IVECON",
       "DOMINIO": "AA-719-UN",
       "MARCA": "RANGER",
       "KM": "82894",
@@ -22832,7 +22832,7 @@
       "TALLER": "ARDILES"
     }
   ],
-  "hash_datos": "57d7ebc577325a6ff80b54a97a9da19f13f66d87205f77eea437d955fb8d9935",
+  "hash_datos": "609b8ef6188d546ddbea8edec5758f06da37a54eb51325aa744012b5dc7f20ef",
   "estado": "cache_local",
   "archivo": "historicos.json"
 }

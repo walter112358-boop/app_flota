@@ -1,7 +1,7 @@
 {
   "nombre": "carrozado",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:01:46.422562-03:00",
+  "actualizado_en": "2026-04-06T13:26:20.692678-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -14,7 +14,7 @@
   "filas": [
     {
       "DEPENDENCIA": "ESTACION I",
-      "INTERNO": "2643",
+      "INTERNO": "2643 IVECON",
       "DOMINIO": "AB-700-OZ",
       "MARCA": "IVECO",
       "MODELO": "170E28NCM51",
@@ -436,7 +436,7 @@
       "CARROZADO": "TECIN"
     }
   ],
-  "hash_datos": "c0b4d2ec4bb90b02527570f3791c128b0a8742cb7b8217865118a9cc0804d66b",
+  "hash_datos": "ac04e40adac1e074615cbace261ea342b35e00bcef0915b075a5a07649d006bf",
   "estado": "cache_local",
   "archivo": "carrozado.json"
 }

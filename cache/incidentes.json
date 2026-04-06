@@ -1,7 +1,7 @@
 {
   "nombre": "incidentes",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:01:46.251257-03:00",
+  "actualizado_en": "2026-04-06T13:26:06.122446-03:00",
   "columnas": [
     "INTERNO",
     "INF",
@@ -32,7 +32,7 @@
   ],
   "filas": [
     {
-      "INTERNO": "512",
+      "INTERNO": " 512 IVECOON",
       "INF": "SI",
       "3RO LESIONADOS": "NO",
       "DOMINIO": "FKI217",
@@ -5156,7 +5156,7 @@
       "FECHA_2": "2026-02-23"
     }
   ],
-  "hash_datos": "ad690fe3ffd1b87894c8a37355434d862f1fd16155c07adc1e4a91358c74a584",
+  "hash_datos": "3ae4c372e848fe0202cd5b3cb8564f03dc72d4589e41d49091fbaa7efefb1b44",
   "estado": "cache_local",
   "archivo": "incidentes.json"
 }
