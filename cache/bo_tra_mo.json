@@ -1,7 +1,7 @@
 {
   "nombre": "bo_tra_mo",
   "version": 1,
-  "actualizado_en": "2026-04-06T14:48:06.467446-03:00",
+  "actualizado_en": "2026-04-06T14:51:14.050737-03:00",
   "columnas": [
     "MARCA / MODELO",
     "INTERNO",
@@ -24,7 +24,7 @@
     {
       "MARCA / MODELO": "SEMIRRIGIDO HIFEI",
       "INTERNO": "prueba",
-      "TIPO": "BOTE",
+      "TIPO": "prueba",
       "ESTADO": "P/S",
       "AVERIA": "-///-",
       "DESCRIPCION": "-///-",
@@ -400,7 +400,7 @@
       "DEPENDENCIA ACTUAL": "GER CABALLITO"
     }
   ],
-  "hash_datos": "9b3cca8bfb4d2221040736f2a1ab539dfbc0cad63043b102e42fae2953cd9a4f",
+  "hash_datos": "b25231fe55a46beaf1ea55e0a76652cfdc6c2c3440cd39f26fbcc2f51714eaf7",
   "estado": "cache_local",
   "archivo": "bo_tra_mo.json"
 }

@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-06T14:47:46.700044-03:00",
+  "actualizado_en": "2026-04-06T14:51:01.853077-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -35,7 +35,7 @@
       "DEPENDENCIA": "ESTACION IV",
       "INTERNO": "8371",
       "MARCA": "prueba",
-      "MODELO": "A 8700",
+      "MODELO": "prueba",
       "UTILIDAD": "cam",
       "CARROZADO": "ddd",
       "BOMBA": "AGE",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "3388e169755acc65b18bec20673766c1377077f59d38b59150c3c24b0d8b3421",
+  "hash_datos": "40d5e05c7259ed34e2ab30136cc1e43e0aa7ff9ef51078822a47cfa01701ef25",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }

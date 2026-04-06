@@ -1,7 +1,7 @@
 {
   "nombre": "gh_ytorres",
   "version": 1,
-  "actualizado_en": "2026-04-06T14:47:57.984584-03:00",
+  "actualizado_en": "2026-04-06T14:51:08.369105-03:00",
   "columnas": [
     "DEPENDENCIA",
     "MARCA",
@@ -28,7 +28,7 @@
     {
       "DEPENDENCIA": "ESTACION I \"PUERTO MADERO\"",
       "MARCA": "prueba",
-      "MODELO": "GI2000",
+      "MODELO": "prueba",
       "POTENCIA": "1.5KVA",
       "FASES": "MONOFASICO",
       "MOVIL PARA TRANSLADO": "SI",
@@ -653,7 +653,7 @@
       "TIPO": "GRUPO ELECTROGENO"
     }
   ],
-  "hash_datos": "b53ce997f2a6df3f59b37a3af33089eb6fadcf42765d9ffbfd0542745fa1a370",
+  "hash_datos": "30df7ca6716d9a59eee00546436bb1bb9063aea73d6ed2cfad68594d0ef40c0b",
   "estado": "cache_local",
   "archivo": "gh_ytorres.json"
 }
