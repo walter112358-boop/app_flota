@@ -1,7 +1,7 @@
 {
   "nombre": "historicos",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:26:35.903764-03:00",
+  "actualizado_en": "2026-04-06T14:48:10.966293-03:00",
   "columnas": [
     "FECHA SOLICITUD",
     "INTERNO",
@@ -31,7 +31,7 @@
     },
     {
       "FECHA SOLICITUD": "2024-01-02",
-      "INTERNO": "2637",
+      "INTERNO": "prueba",
       "DOMINIO": "PCK-890",
       "MARCA": "IVECO",
       "KM": "35391",
@@ -22832,7 +22832,7 @@
       "TALLER": "ARDILES"
     }
   ],
-  "hash_datos": "609b8ef6188d546ddbea8edec5758f06da37a54eb51325aa744012b5dc7f20ef",
+  "hash_datos": "116c186f620deb386459964421212e9c1917049dcda0f0030eca34ffca1a03a0",
   "estado": "cache_local",
   "archivo": "historicos.json"
 }

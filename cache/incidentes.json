@@ -1,7 +1,7 @@
 {
   "nombre": "incidentes",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:26:06.122446-03:00",
+  "actualizado_en": "2026-04-06T14:47:51.933222-03:00",
   "columnas": [
     "INTERNO",
     "INF",
@@ -61,7 +61,7 @@
     },
     {
       "INTERNO": "sfdsgdsg",
-      "INF": "",
+      "INF": "prueba",
       "3RO LESIONADOS": "",
       "DOMINIO": "",
       "NRO STRO": "",
@@ -5156,7 +5156,7 @@
       "FECHA_2": "2026-02-23"
     }
   ],
-  "hash_datos": "3ae4c372e848fe0202cd5b3cb8564f03dc72d4589e41d49091fbaa7efefb1b44",
+  "hash_datos": "a4aad1eecf4a04e1684c3be1704be589a2f36748a201cecc0c1df2a198a9cec5",
   "estado": "cache_local",
   "archivo": "incidentes.json"
 }

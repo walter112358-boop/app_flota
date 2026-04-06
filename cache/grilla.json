@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:25:48.048730-03:00",
+  "actualizado_en": "2026-04-06T14:47:46.700044-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -34,7 +34,7 @@
     {
       "DEPENDENCIA": "ESTACION IV",
       "INTERNO": "8371",
-      "MARCA": "agrale",
+      "MARCA": "prueba",
       "MODELO": "A 8700",
       "UTILIDAD": "cam",
       "CARROZADO": "ddd",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "5628f46177f0f6f65ffea4b364f6865586370a2f00359205e5ef7396dbb58ccc",
+  "hash_datos": "3388e169755acc65b18bec20673766c1377077f59d38b59150c3c24b0d8b3421",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }

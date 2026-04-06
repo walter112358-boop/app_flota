@@ -1,7 +1,7 @@
 {
   "nombre": "carrozado",
   "version": 1,
-  "actualizado_en": "2026-04-06T13:26:20.692678-03:00",
+  "actualizado_en": "2026-04-06T14:48:02.429235-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -23,7 +23,7 @@
     },
     {
       "DEPENDENCIA": "ESTACION II",
-      "INTERNO": "2640",
+      "INTERNO": "prueba",
       "DOMINIO": "PCK-885",
       "MARCA": "IVECO",
       "MODELO": "T. ATTACK 170e22",
@@ -436,7 +436,7 @@
       "CARROZADO": "TECIN"
     }
   ],
-  "hash_datos": "ac04e40adac1e074615cbace261ea342b35e00bcef0915b075a5a07649d006bf",
+  "hash_datos": "c4761ef2e6388c639de0ed0e0471e28da944ad90095c439846f4f084785c4dde",
   "estado": "cache_local",
   "archivo": "carrozado.json"
 }
