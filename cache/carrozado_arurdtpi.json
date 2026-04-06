@@ -1,0 +1,442 @@
+{
+  "nombre": "carrozado",
+  "version": 1,
+  "actualizado_en": "2026-03-26T19:37:41.013288-03:00",
+  "columnas": [
+    "DEPENDENCIA",
+    "INTERNO",
+    "DOMINIO",
+    "MARCA",
+    "MODELO",
+    "UTILIDAD",
+    "CARROZADO"
+  ],
+  "filas": [
+    {
+      "DEPENDENCIA": "ESTACION I",
+      "INTERNO": "2643",
+      "DOMINIO": "AB-700-OZ",
+      "MARCA": "IVECO",
+      "MODELO": "170E28NCM51",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "ARD"
+    },
+    {
+      "DEPENDENCIA": "ESTACION II",
+      "INTERNO": "2640",
+      "DOMINIO": "PCK-885",
+      "MARCA": "IVECO",
+      "MODELO": "T. ATTACK 170e22",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "ARD"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VII",
+      "INTERNO": "2639",
+      "DOMINIO": "AB-649-BN",
+      "MARCA": "IVECO",
+      "MODELO": "TECTOR 170e28",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "ARD"
+    },
+    {
+      "DEPENDENCIA": "GER 1",
+      "INTERNO": "2644",
+      "DOMINIO": "AB-649-BO",
+      "MARCA": "IVECO",
+      "MODELO": "170E28NCM51",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "ARD"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VI",
+      "INTERNO": "9051",
+      "DOMINIO": "JYY-878",
+      "MARCA": "IVECO",
+      "MODELO": "CELA ALP 450E",
+      "UTILIDAD": "HIDROELEVADOR",
+      "CARROZADO": "ARD"
+    },
+    {
+      "DEPENDENCIA": "DTO. 9 JULIO",
+      "INTERNO": "8371",
+      "DOMINIO": "AG-160-SP",
+      "MARCA": "AGRALE",
+      "MODELO": "A 8700",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION III",
+      "INTERNO": "2641",
+      "DOMINIO": "AB-649-BL",
+      "MARCA": "IVECO",
+      "MODELO": "TECTOR 170e28",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "DTO. MISERERE",
+      "INTERNO": "2635",
+      "DOMINIO": "PCK-886",
+      "MARCA": "IVECO",
+      "MODELO": "TECTOR ATTACK 170E22",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION IV",
+      "INTERNO": "2642",
+      "DOMINIO": "AB-649-BM",
+      "MARCA": "IVECO",
+      "MODELO": "170E28NCM51",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION V",
+      "INTERNO": "2636",
+      "DOMINIO": "PCK-889",
+      "MARCA": "IVECO",
+      "MODELO": "2015",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VI",
+      "INTERNO": "2637",
+      "DOMINIO": "PCK-890",
+      "MARCA": "IVECO",
+      "MODELO": "170E22",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VIII",
+      "INTERNO": "2645",
+      "DOMINIO": "AB-700-OY",
+      "MARCA": "IVECO",
+      "MODELO": "TECTOR 170e28",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION IX",
+      "INTERNO": "2638",
+      "DOMINIO": "PCK-888",
+      "MARCA": "IVECO",
+      "MODELO": "T. ATTACK 170e22",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION II",
+      "INTERNO": "2656",
+      "DOMINIO": "FFI-409",
+      "MARCA": "FORD",
+      "MODELO": "4000",
+      "UTILIDAD": "AUTOBOMBA LIVIANA ZONDA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION X",
+      "INTERNO": "2668",
+      "DOMINIO": "FKI-214",
+      "MARCA": "FORD",
+      "MODELO": "4000",
+      "UTILIDAD": "AUTOBOMBA LIVIANA ZONDA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "DTO. RETIRO",
+      "INTERNO": "2658",
+      "DOMINIO": "FFI-407",
+      "MARCA": "FORD",
+      "MODELO": "4000",
+      "UTILIDAD": "AUTOBOMBA LIVIANA ZONDA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION IV",
+      "INTERNO": "2657",
+      "DOMINIO": "FFI-403",
+      "MARCA": "FORD",
+      "MODELO": "4000",
+      "UTILIDAD": "AUTOBOMBA LIVIANA ZONDA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "DTO. CHACARITA",
+      "INTERNO": "2666",
+      "DOMINIO": "FKI-213",
+      "MARCA": "FORD",
+      "MODELO": "4000",
+      "UTILIDAD": "AUTOBOMBA LIVIANA ZONDA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION XI",
+      "INTERNO": "2665",
+      "DOMINIO": "FFI-411",
+      "MARCA": "FORD",
+      "MODELO": "4000",
+      "UTILIDAD": "AUTOBOMBA LIVIANA ZONDA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION II",
+      "INTERNO": "9005",
+      "DOMINIO": "IHE-450",
+      "MARCA": "IVECO",
+      "MODELO": "CAVALLINO  180 E32",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION III",
+      "INTERNO": "9000",
+      "DOMINIO": "HHJ-183",
+      "MARCA": "IVECO",
+      "MODELO": "CAVALLINO  180 E32",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION X",
+      "INTERNO": "2659",
+      "DOMINIO": "FFI-402",
+      "MARCA": "FORD CARGO",
+      "MODELO": "CARGO 1730",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION IV",
+      "INTERNO": "2669",
+      "DOMINIO": "FJK-994",
+      "MARCA": "FORD CARGO",
+      "MODELO": "CARGO 1730",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION V",
+      "INTERNO": "2667",
+      "DOMINIO": "FKI-217",
+      "MARCA": "FORD CARGO",
+      "MODELO": "CARGO 1730",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VI",
+      "INTERNO": "9004",
+      "DOMINIO": "IHE-449",
+      "MARCA": "IVECO",
+      "MODELO": "CAVALLINO  180 E32",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VIII",
+      "INTERNO": "2670",
+      "DOMINIO": "FJK-995",
+      "MARCA": "FORD CARGO",
+      "MODELO": "CARGO 1730",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION IX",
+      "INTERNO": "2671",
+      "DOMINIO": "FKY-212",
+      "MARCA": "FORD CARGO",
+      "MODELO": "CARGO 1730",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VI",
+      "INTERNO": "2138",
+      "DOMINIO": "AA-823-YE",
+      "MARCA": "CITROEN",
+      "MODELO": "JUMPER 35 MH HDI 127 AM16",
+      "UTILIDAD": "UAR",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VII",
+      "INTERNO": "9052",
+      "DOMINIO": "AD-952-ZT",
+      "MARCA": "FORD",
+      "MODELO": "CARGO 1731",
+      "UTILIDAD": "HIDROELEVADOR",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION XI",
+      "INTERNO": "2009",
+      "DOMINIO": "WGH-130",
+      "MARCA": "MAN",
+      "MODELO": "8168 C/S",
+      "UTILIDAD": "ATAQUE EN ALTURA",
+      "CARROZADO": "TECHNIQUES & SUPPLIES"
+    },
+    {
+      "DEPENDENCIA": "ESTACION II",
+      "INTERNO": "2651",
+      "DOMINIO": "FJT-930",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION II",
+      "INTERNO": "2672",
+      "DOMINIO": "FJK-999",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION III",
+      "INTERNO": "9173",
+      "DOMINIO": "WID-057",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "710",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "DTO. BOCA",
+      "INTERNO": "2660",
+      "DOMINIO": "FJT-938",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION X",
+      "INTERNO": "2674",
+      "DOMINIO": "FJK-991",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION V",
+      "INTERNO": "2653",
+      "DOMINIO": "FFI-408",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "2005",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VI",
+      "INTERNO": "2677",
+      "DOMINIO": "FKI-211",
+      "MARCA": "MERCEDES BENZ",
+      "MODELO": "1720/48",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VI",
+      "INTERNO": "2673",
+      "DOMINIO": "FJT-931",
+      "MARCA": "MERCEDES BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "DTO. PALERMO",
+      "INTERNO": "2675",
+      "DOMINIO": "FKI-216",
+      "MARCA": "MERCEDES BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VII",
+      "INTERNO": "2654",
+      "DOMINIO": "FFI-410",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VIII",
+      "INTERNO": "346",
+      "DOMINIO": "DYI-087",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "DTO. VELEZ",
+      "INTERNO": "347",
+      "DOMINIO": "DYI-088",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "DTO. DEVOTO",
+      "INTERNO": "2676",
+      "DOMINIO": "FKY-212",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "GER 2",
+      "INTERNO": "2662",
+      "DOMINIO": "FJK-997",
+      "MARCA": "MERCEDEZ BENZ",
+      "MODELO": "1720",
+      "UTILIDAD": "AUTOBOMBA PESADA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "DTO. POMPEYA",
+      "INTERNO": "2680",
+      "DOMINIO": "FJT-936",
+      "MARCA": "FORD",
+      "MODELO": "4000 4 X 4",
+      "UTILIDAD": "AUTOBOMBA LIVIANA ZONDA",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "ESTACION VII",
+      "INTERNO": "9319",
+      "DOMINIO": "KNQ-831",
+      "MARCA": "VW",
+      "MODELO": "CONSTALATION",
+      "UTILIDAD": "ALIMENTACION",
+      "CARROZADO": "TECIN"
+    },
+    {
+      "DEPENDENCIA": "GER 1",
+      "INTERNO": "9157",
+      "DOMINIO": "WID-094",
+      "MARCA": "MB",
+      "MODELO": "4 X 4",
+      "UTILIDAD": "RESCATE GRUA",
+      "CARROZADO": "TECIN"
+    }
+  ],
+  "hash_datos": "c0b4d2ec4bb90b02527570f3791c128b0a8742cb7b8217865118a9cc0804d66b",
+  "estado": "cache_local",
+  "archivo": "carrozado.json"
+}

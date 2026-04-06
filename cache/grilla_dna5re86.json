@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-01T18:29:55.309633-03:00",
+  "actualizado_en": "2026-03-30T19:19:02.238906-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -20,28 +20,28 @@
     {
       "DEPENDENCIA": "ESTACION I",
       "INTERNO": "2643",
-      "MARCA": "IVECOoo",
+      "MARCA": "IVECO",
       "MODELO": "170E28NCM51",
-      "UTILIDAD": "cambio",
+      "UTILIDAD": "",
       "CARROZADO": "ARD",
       "BOMBA": "ROSENBAUER",
       "DEPENDENCIA ACTUAL": "ESTACION VI",
       "ESTADO": "P/S",
-      "OBSERVACIONES": "no hay observaciones",
+      "OBSERVACIONES": "",
       "TALLER": "",
       "tanque": ""
     },
     {
       "DEPENDENCIA": "ESTACION IV",
       "INTERNO": "8371",
-      "MARCA": "agrale",
+      "MARCA": "AGRALE",
       "MODELO": "A 8700",
-      "UTILIDAD": "cam",
+      "UTILIDAD": "",
       "CARROZADO": "ddd",
       "BOMBA": "AGE",
       "DEPENDENCIA ACTUAL": "ESTACION IV",
       "ESTADO": "P/S",
-      "OBSERVACIONES": "ninguna",
+      "OBSERVACIONES": "",
       "TALLER": "",
       "tanque": ""
     },
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "b37b478140f7cc024ee3a3de07ab83185cc601a87417e5a877ceb668e3b2ea6e",
+  "hash_datos": "32de1291c685398d8d109ed1d9e3c40f6dac7e0caf790b7525d5e851003af805",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
