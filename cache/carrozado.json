@@ -1,7 +1,7 @@
 {
   "nombre": "carrozado",
   "version": 1,
-  "actualizado_en": "2026-04-06T14:51:11.193481-03:00",
+  "actualizado_en": "2026-04-06T16:04:27.822603-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -25,7 +25,7 @@
       "DEPENDENCIA": "ESTACION II",
       "INTERNO": "prueba",
       "DOMINIO": "prueba",
-      "MARCA": "IVECO",
+      "MARCA": "prueba",
       "MODELO": "T. ATTACK 170e22",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "ARD"
@@ -436,7 +436,7 @@
       "CARROZADO": "TECIN"
     }
   ],
-  "hash_datos": "a7cf7ed28c98b103d1353024036b9e1411b46afaf69503fc32f18ca1f1e465ca",
+  "hash_datos": "37c0108bc7cb67cb1e3e6d5b4d1b3c3bf587e6fd0f43269540dadb395af7393f",
   "estado": "cache_local",
   "archivo": "carrozado.json"
 }

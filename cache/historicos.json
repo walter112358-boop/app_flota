@@ -1,7 +1,7 @@
 {
   "nombre": "historicos",
   "version": 1,
-  "actualizado_en": "2026-04-06T14:51:17.493953-03:00",
+  "actualizado_en": "2026-04-06T16:04:34.596643-03:00",
   "columnas": [
     "FECHA SOLICITUD",
     "INTERNO",
@@ -33,7 +33,7 @@
       "FECHA SOLICITUD": "2024-01-02",
       "INTERNO": "prueba",
       "DOMINIO": "prueba",
-      "MARCA": "IVECO",
+      "MARCA": "prueba",
       "KM": "35391",
       "DEPENDENCIA": "ESTACION VI \"C.M.M.C.F.P\"",
       "DESCRIPCION": "G.E. LIFAN MEZCLA ACEITE CON EL COMBUSTIBLE",
@@ -22832,7 +22832,7 @@
       "TALLER": "ARDILES"
     }
   ],
-  "hash_datos": "a6f3d87f4f81cab296955ec386a86cdb2905dc3abf95e8e96edb109ad18305c2",
+  "hash_datos": "6bd6401036c56a74f7179a5021cf79b0d2c87f9eee8dd61ec1c8636d27def061",
   "estado": "cache_local",
   "archivo": "historicos.json"
 }
