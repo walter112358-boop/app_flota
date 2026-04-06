@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-06T12:18:56.368688-03:00",
+  "actualizado_en": "2026-04-06T12:51:29.742434-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -20,7 +20,7 @@
     {
       "DEPENDENCIA": "ESTACION I",
       "INTERNO": "2643",
-      "MARCA": "IVECOoo",
+      "MARCA": "IVECOoouuu",
       "MODELO": "170E28NCM51",
       "UTILIDAD": "cambio",
       "CARROZADO": "ARD",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "b37b478140f7cc024ee3a3de07ab83185cc601a87417e5a877ceb668e3b2ea6e",
+  "hash_datos": "0b1cacadae01ac232af724a7d413466c0e4abb41e314d0ee9400f7e493b5a095",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
