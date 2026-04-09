@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-09T13:31:57.769844-03:00",
+  "actualizado_en": "2026-04-09T13:51:30.546189-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -77,7 +77,7 @@
       "DEPENDENCIA": "ESTACION II",
       "INTERNO": "2672",
       "MARCA": "MERCEDEZ BENZ",
-      "MODELO": "1720",
+      "MODELO": "rgdrgerg",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "TECIN",
       "BOMBA": " ",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "e51d6e17c617d58d948a6bf5a069d088bbf315f0d200847369be763fc223cb34",
+  "hash_datos": "54e91564720031390054f1141ba4e7312c565b778242abaef55671ff4e74b74f",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
