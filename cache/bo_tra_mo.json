@@ -1,7 +1,7 @@
 {
   "nombre": "bo_tra_mo",
   "version": 1,
-  "actualizado_en": "2026-04-06T17:24:38.154818-03:00",
+  "actualizado_en": "2026-04-09T13:31:58.306120-03:00",
   "columnas": [
     "MARCA / MODELO",
     "INTERNO",
@@ -338,7 +338,7 @@
     },
     {
       "MARCA / MODELO": "TRAILER",
-      "INTERNO": "NO POSEE",
+      "INTERNO": "54545",
       "TIPO": "TRAILER",
       "ESTADO": "P/S",
       "AVERIA": "",
@@ -400,7 +400,7 @@
       "DEPENDENCIA ACTUAL": "GER CABALLITO"
     }
   ],
-  "hash_datos": "1656037b8ae29f5afe4b70c69dfa10d4ab670cc763f45eb43fe770108023767f",
+  "hash_datos": "ce8f1966e8eaad3eeb502a171a8049cace7266b0b1764fd047a0ab373eb4bc92",
   "estado": "cache_local",
   "archivo": "bo_tra_mo.json"
 }
