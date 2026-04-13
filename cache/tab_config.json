@@ -19,19 +19,6 @@
       "bootstrap_relpath": ""
     },
     {
-      "tab_id": "incidentes",
-      "nombre": "Incidentes",
-      "columnas": [
-        "FECHA",
-        "INTERNO",
-        "INCIDENTE",
-        "LUGAR",
-        "OBSERVACIONES"
-      ],
-      "tipo_base": "Incidentes",
-      "bootstrap_relpath": ""
-    },
-    {
       "tab_id": "carrozado",
       "nombre": "Carrozado",
       "columnas": [
@@ -42,6 +29,19 @@
         "OBSERVACIONES"
       ],
       "tipo_base": "Carrozado",
+      "bootstrap_relpath": ""
+    },
+    {
+      "tab_id": "incidentes",
+      "nombre": "Siniestros",
+      "columnas": [
+        "FECHA",
+        "INTERNO",
+        "INCIDENTE",
+        "LUGAR",
+        "OBSERVACIONES"
+      ],
+      "tipo_base": "Incidentes",
       "bootstrap_relpath": ""
     },
     {
