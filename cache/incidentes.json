@@ -1,7 +1,7 @@
 {
   "nombre": "incidentes",
   "version": 1,
-  "actualizado_en": "2026-04-13T10:34:16.372819-03:00",
+  "actualizado_en": "2026-04-13T10:39:28.536416-03:00",
   "columnas": [
     "INTERNO",
     "INF",
@@ -142,6 +142,34 @@
       "DEPENDENCIA": "DESTACAMENTO BOCA",
       "AUXILIAR": "PANASIA, HERNAN",
       "FECHA_2": "2024-04-09"
+    },
+    {
+      "INTERNO": "fsdkjfn",
+      "INF": "cascsa",
+      "3RO LESIONADOS": "ascasc",
+      "DOMINIO": "saas",
+      "NRO STRO": "",
+      "FECHA": "",
+      "HORA": "",
+      "CARACTERISTICAS": "",
+      "NOMBRE CONDUCTOR": "",
+      "APELLIDO COND.": "",
+      "DNI": "",
+      "SEXO": "",
+      "LCIA VTE DESDE": "",
+      "LCIA VTE HASTA": "",
+      "FECHA DE NAC.": "",
+      "CANT. DE VH": "",
+      "PATENTE DEL 3RO": "",
+      "ASEGURADORA DEL 3RO": "",
+      "APELLIDO, NOMBRE Y DNI": "",
+      "CALLE / INTERSECCION": "",
+      "Nº": "",
+      "PCIA": "",
+      "FORMA DE OCURRENCIA": "",
+      "DEPENDENCIA": "",
+      "AUXILIAR": "",
+      "FECHA_2": ""
     },
     {
       "INTERNO": "1572",
@@ -5156,7 +5184,7 @@
       "FECHA_2": "2026-02-23"
     }
   ],
-  "hash_datos": "548b0c45f3972e4b84792301945a0d567bcd1072f64260f9de1d5e500491e07d",
+  "hash_datos": "5319ad948e02733a6ef009caf13364401535c9f509f6d24e185a3c33b0070a1e",
   "estado": "cache_local",
   "archivo": "incidentes.json"
 }

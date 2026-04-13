@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-13T10:34:49.119386-03:00",
+  "actualizado_en": "2026-04-13T10:38:57.630097-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -21,7 +21,7 @@
       "DEPENDENCIA": "ESTACION I",
       "INTERNO": "2643 yyyyyyyyy",
       "MARCA": "IVECOOOOM",
-      "MODELO": "170E28NCM51",
+      "MODELO": "dgergerger",
       "UTILIDAD": "cambio",
       "CARROZADO": "ARD",
       "BOMBA": "ROSENBAUER",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "63b2f20ae50dce0f2f9aa8fc1abb43cfa7247693d0dce6eb9aed5dbafaabec8c",
+  "hash_datos": "e028240779deb7bab5259352e46ed724b06f0efa1aad6d5418e28c8edf857231",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
