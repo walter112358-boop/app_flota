@@ -1,7 +1,7 @@
 {
   "nombre": "historicos",
   "version": 1,
-  "actualizado_en": "2026-04-13T10:34:17.316101-03:00",
+  "actualizado_en": "2026-04-13T11:01:46.273101-03:00",
   "columnas": [
     "FECHA SOLICITUD",
     "INTERNO",
@@ -16,6 +16,19 @@
     "TALLER"
   ],
   "filas": [
+    {
+      "FECHA SOLICITUD": "2026-06-06",
+      "INTERNO": "fsdfdsf",
+      "DOMINIO": "dfdsfdsfds",
+      "MARCA": "",
+      "KM": "",
+      "DEPENDENCIA": "",
+      "DESCRIPCION": "",
+      "FECHA ASIGNACION": "",
+      "INGRESO": "",
+      "EGRESO": "",
+      "TALLER": ""
+    },
     {
       "FECHA SOLICITUD": "2024-01-02",
       "INTERNO": "2129 IVECON",
@@ -22832,7 +22845,7 @@
       "TALLER": "ARDILES"
     }
   ],
-  "hash_datos": "821b279fb474d6580ddb2c70421afc4aea1cc038fd9cb71bbb3715877bf923cf",
+  "hash_datos": "4efe3a553601706dc640d0b33202f104c216d1a1ee42d303f76562dd77db741b",
   "estado": "cache_local",
   "archivo": "historicos.json"
 }
