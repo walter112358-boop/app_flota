@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-13T08:51:27.336470-03:00",
+  "actualizado_en": "2026-04-13T10:30:14.744346-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -19,7 +19,7 @@
   "filas": [
     {
       "DEPENDENCIA": "ESTACION I",
-      "INTERNO": "2643",
+      "INTERNO": "2643 yyyyyyyyy",
       "MARCA": "IVECOOOOM",
       "MODELO": "170E28NCM51",
       "UTILIDAD": "cambio",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "54e91564720031390054f1141ba4e7312c565b778242abaef55671ff4e74b74f",
+  "hash_datos": "d72c4e1488a55c5fcebe7d80d074d7e7fb9faf4d42d1c7a2c53a12734a26f601",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
