@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-15T12:14:17.010753-03:00",
+  "actualizado_en": "2026-04-15T12:17:25.625601-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -34,7 +34,7 @@
     {
       "DEPENDENCIA": "ESTACION IV",
       "INTERNO": "8371",
-      "MARCA": "prueba",
+      "MARCA": "bggbtb",
       "MODELO": "prueba",
       "UTILIDAD": "grtgrtg",
       "CARROZADO": "ddd",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "19aad118b325c9062a380cb441bf825f85c64a22ae322d573b5cbaa9cb1df53d",
+  "hash_datos": "8e06b6ea8c9b0364d1f2475251a1189eff9afff0108f017861c2c32c6ab24802",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
