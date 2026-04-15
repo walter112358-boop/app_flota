@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-13T10:53:53.259603-03:00",
+  "actualizado_en": "2026-04-15T09:54:32.803921-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -19,7 +19,7 @@
   "filas": [
     {
       "DEPENDENCIA": "ESTACION I",
-      "INTERNO": "2643 yyyyyyyyy",
+      "INTERNO": "2643",
       "MARCA": "IVECOOOOM",
       "MODELO": "dgergerger",
       "UTILIDAD": "cambio",
@@ -34,7 +34,7 @@
     {
       "DEPENDENCIA": "ESTACION IV",
       "INTERNO": "8371",
-      "MARCA": "nuevo 3333",
+      "MARCA": "prueba",
       "MODELO": "prueba",
       "UTILIDAD": "prueba",
       "CARROZADO": "ddd",
@@ -92,7 +92,7 @@
       "INTERNO": "2641",
       "MARCA": "IVECO",
       "MODELO": "TECTOR 170e28",
-      "UTILIDAD": "AUTOBOMBA PESADA",
+      "UTILIDAD": "efefert54t5t",
       "CARROZADO": "TECHNIQUES & SUPPLIES",
       "BOMBA": "ROSENBAUER",
       "DEPENDENCIA ACTUAL": "ESTACION III",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "e028240779deb7bab5259352e46ed724b06f0efa1aad6d5418e28c8edf857231",
+  "hash_datos": "785690724ccd72e3fd6da1cd13d7e4269f5c37a32a981bd517a6f5254eaf1164",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
