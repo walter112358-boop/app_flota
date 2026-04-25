@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-15T12:17:25.625601-03:00",
+  "actualizado_en": "2026-04-25T20:33:03.756082-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -18,23 +18,23 @@
   ],
   "filas": [
     {
-      "DEPENDENCIA": "ESTACION I",
+      "DEPENDENCIA": "ESTACION I (101)",
       "INTERNO": "8371",
       "MARCA": "IVECOOOOM",
       "MODELO": "grgrgr",
       "UTILIDAD": "cambio",
       "CARROZADO": "ARD",
       "BOMBA": "ROSENBAUER",
-      "DEPENDENCIA ACTUAL": "ESTACION VI",
+      "DEPENDENCIA ACTUAL": "ESTACION VI (Prestamo)",
       "ESTADO": "P/S",
       "OBSERVACIONES": "no hay observaciones",
       "TALLER": "",
       "tanque": ""
     },
     {
-      "DEPENDENCIA": "ESTACION IV",
+      "DEPENDENCIA": "ESTACION IV (402)",
       "INTERNO": "8371",
-      "MARCA": "bggbtb",
+      "MARCA": "IVECO",
       "MODELO": "prueba",
       "UTILIDAD": "grtgrtg",
       "CARROZADO": "ddd",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "8e06b6ea8c9b0364d1f2475251a1189eff9afff0108f017861c2c32c6ab24802",
+  "hash_datos": "4afc9a7e64974245f366011a13a7422f4a7a8993a4c9a765738b58115fa85ce4",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }

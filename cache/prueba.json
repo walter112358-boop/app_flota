@@ -1,7 +1,7 @@
 {
   "nombre": "prueba",
   "version": 1,
-  "actualizado_en": "2026-04-15T12:15:34.811901-03:00",
+  "actualizado_en": "2026-04-24T14:17:44.699140-03:00",
   "columnas": [
     "carrera",
     "como estas",
@@ -18,6 +18,14 @@
       "carrera copia": "prueba",
       "como estas copia": "bbbbbbbb",
       "esta es una prueba copia": "ccccccccccccccc"
+    },
+    {
+      "carrera": "fdgdfh",
+      "como estas": "fbfh",
+      "esta es una prueba": "fbdfbdf",
+      "carrera copia": "bfddbfd",
+      "como estas copia": "dbff",
+      "esta es una prueba copia": "dfbfbf"
     },
     {
       "carrera": "dddddddddd",
@@ -44,7 +52,7 @@
       "esta es una prueba copia": "lllllllllllllll"
     }
   ],
-  "hash_datos": "289b64f2d1f99461b8886005359681ee7dbf145352873d1d407c0059c5ed03f4",
+  "hash_datos": "8a36f33f1e327946c4b363f6a86b523bdd6346634b0d1844e3de5d2ead4c10bd",
   "estado": "cache_local",
   "archivo": "prueba.json"
 }
