@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-25T20:33:03.756082-03:00",
+  "actualizado_en": "2026-04-29T10:41:56.536478-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -21,7 +21,7 @@
       "DEPENDENCIA": "ESTACION I (101)",
       "INTERNO": "8371",
       "MARCA": "IVECOOOOM",
-      "MODELO": "grgrgr",
+      "MODELO": "prueba",
       "UTILIDAD": "cambio",
       "CARROZADO": "ARD",
       "BOMBA": "ROSENBAUER",
@@ -36,7 +36,7 @@
       "INTERNO": "8371",
       "MARCA": "IVECO",
       "MODELO": "prueba",
-      "UTILIDAD": "grtgrtg",
+      "UTILIDAD": "cambio",
       "CARROZADO": "ddd",
       "BOMBA": "AGE",
       "DEPENDENCIA ACTUAL": "ESTACION IV",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "4afc9a7e64974245f366011a13a7422f4a7a8993a4c9a765738b58115fa85ce4",
+  "hash_datos": "470642c4cb8910b5fb780224d7597d78d62f9b499bf14b47d99084e881504dc5",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
