@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-29T17:57:29.506594-03:00",
+  "actualizado_en": "2026-04-29T18:24:29.711094-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -35,7 +35,7 @@
       "DEPENDENCIA": "ESTACION IV (402)",
       "INTERNO": "8371",
       "MARCA": "IVECO",
-      "MODELO": "prueba",
+      "MODELO": "_1",
       "UTILIDAD": "cambio",
       "CARROZADO": "ddd",
       "BOMBA": "AGE",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "9acbc83563a24bd7cc77b89e195c6d29e25bca84280ec8caf7ca97b664307c97",
+  "hash_datos": "7063db0c65b6edd5b4b2625351f23f41d7e4b4e0cf68c3ed4876d17297507b14",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
