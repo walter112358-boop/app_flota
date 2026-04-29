@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-04-29T10:41:56.536478-03:00",
+  "actualizado_en": "2026-04-29T17:57:29.506594-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -20,7 +20,7 @@
     {
       "DEPENDENCIA": "ESTACION I (101)",
       "INTERNO": "8371",
-      "MARCA": "IVECOOOOM",
+      "MARCA": "IVECO",
       "MODELO": "prueba",
       "UTILIDAD": "cambio",
       "CARROZADO": "ARD",
@@ -77,7 +77,7 @@
       "DEPENDENCIA": "ESTACION II",
       "INTERNO": "2672",
       "MARCA": "MERCEDEZ BENZ",
-      "MODELO": "gmjjjhmjhmhj",
+      "MODELO": "1720",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "TECIN",
       "BOMBA": " ",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "470642c4cb8910b5fb780224d7597d78d62f9b499bf14b47d99084e881504dc5",
+  "hash_datos": "9acbc83563a24bd7cc77b89e195c6d29e25bca84280ec8caf7ca97b664307c97",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
