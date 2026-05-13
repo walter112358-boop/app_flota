@@ -1,7 +1,7 @@
 {
   "nombre": "incidentes",
   "version": 1,
-  "actualizado_en": "2026-05-09T20:47:54.099623-03:00",
+  "actualizado_en": "2026-05-13T14:42:49.785167-03:00",
   "columnas": [
     "INTERNO",
     "INF",
@@ -33,7 +33,7 @@
   ],
   "filas": [
     {
-      "INTERNO": " 512 IVECOON",
+      "INTERNO": " 512",
       "INF": "SI",
       "3RO LESIONADOS": "NO",
       "DOMINIO": "FKI217",
@@ -62,7 +62,7 @@
       "dependencia de origen": ""
     },
     {
-      "INTERNO": "sfdsgdsg",
+      "INTERNO": "365",
       "INF": "nuevo",
       "3RO LESIONADOS": "prueba",
       "DOMINIO": "prueba",
@@ -146,35 +146,6 @@
       "DEPENDENCIA": "DESTACAMENTO BOCA",
       "AUXILIAR": "PANASIA, HERNAN",
       "FECHA_2": "2024-04-09",
-      "dependencia de origen": ""
-    },
-    {
-      "INTERNO": "fsdkjfn",
-      "INF": "cascsa",
-      "3RO LESIONADOS": "ascasc",
-      "DOMINIO": "saas",
-      "NRO STRO": "",
-      "FECHA": "",
-      "HORA": "",
-      "CARACTERISTICAS": "",
-      "NOMBRE CONDUCTOR": "",
-      "APELLIDO COND.": "",
-      "DNI": "",
-      "SEXO": "",
-      "LCIA VTE DESDE": "",
-      "LCIA VTE HASTA": "",
-      "FECHA DE NAC.": "",
-      "CANT. DE VH": "",
-      "PATENTE DEL 3RO": "",
-      "ASEGURADORA DEL 3RO": "",
-      "APELLIDO, NOMBRE Y DNI": "",
-      "CALLE / INTERSECCION": "",
-      "Nº": "",
-      "PCIA": "",
-      "FORMA DE OCURRENCIA": "",
-      "DEPENDENCIA": "",
-      "AUXILIAR": "",
-      "FECHA_2": "",
       "dependencia de origen": ""
     },
     {
@@ -5369,7 +5340,7 @@
       "dependencia de origen": ""
     }
   ],
-  "hash_datos": "50842479f9f3476ae1edf77d8c35387ea0a78179edae816a9cb5012241a4ef55",
+  "hash_datos": "d8d132cd15fec42778b31aa470350183c7fd6e1f79647c6e2ff5c4a21e87dc47",
   "estado": "cache_local",
   "archivo": "incidentes.json"
 }
