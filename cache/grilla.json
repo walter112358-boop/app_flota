@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-05-09T20:41:53.407610-03:00",
+  "actualizado_en": "2026-05-09T20:47:53.691896-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -22,7 +22,7 @@
       "INTERNO": "8371",
       "MARCA": "IVECOdfdff",
       "MODELO": "prueba",
-      "UTILIDAD": "cambio",
+      "UTILIDAD": "fdfd",
       "CARROZADO": "ARD",
       "BOMBA": "ROSENBAUER",
       "DEPENDENCIA ACTUAL": "ESTACION VI (Prestamo)",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "aa22fdd71ae9b63e2b50029d75ce2fe772aa05fbc79d7262afab11fa4cb5c6a0",
+  "hash_datos": "96aa910a877eb78cc103a7e58e4f05963984688d4cc4058ce74dd68346243de6",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
