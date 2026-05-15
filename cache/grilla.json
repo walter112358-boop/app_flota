@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-05-09T20:47:53.691896-03:00",
+  "actualizado_en": "2026-05-15T12:44:03.783175-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -20,7 +20,7 @@
     {
       "DEPENDENCIA": "ESTACION I (101)",
       "INTERNO": "8371",
-      "MARCA": "IVECOdfdff",
+      "MARCA": "9999999",
       "MODELO": "prueba",
       "UTILIDAD": "fdfd",
       "CARROZADO": "ARD",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "96aa910a877eb78cc103a7e58e4f05963984688d4cc4058ce74dd68346243de6",
+  "hash_datos": "ed57d5752398b5b9488ce4d1738e1520d2539efb92371e5915a5221137acc7e1",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
