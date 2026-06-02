@@ -1,7 +1,7 @@
 {
   "nombre": "incidentes",
   "version": 1,
-  "actualizado_en": "2026-05-15T10:48:40.898191-03:00",
+  "actualizado_en": "2026-06-02T10:40:54.455162-03:00",
   "columnas": [
     "INTERNO",
     "INF",
@@ -62,7 +62,7 @@
       "dependencia de origen": ""
     },
     {
-      "INTERNO": "593",
+      "INTERNO": "346",
       "INF": "SI",
       "3RO LESIONADOS": "NO",
       "DOMINIO": "PCK890",
@@ -149,7 +149,7 @@
       "dependencia de origen": ""
     },
     {
-      "INTERNO": "1053",
+      "INTERNO": "346",
       "INF": "SI",
       "3RO LESIONADOS": "NO",
       "DOMINIO": "FFI408",
@@ -207,7 +207,7 @@
       "dependencia de origen": ""
     },
     {
-      "INTERNO": "1312",
+      "INTERNO": "346",
       "INF": "SI",
       "3RO LESIONADOS": "NO",
       "DOMINIO": "FJT930",
@@ -323,7 +323,7 @@
       "dependencia de origen": ""
     },
     {
-      "INTERNO": "985",
+      "INTERNO": "346",
       "INF": "SI",
       "3RO LESIONADOS": "SI",
       "DOMINIO": "FFI410",
@@ -5311,7 +5311,7 @@
       "dependencia de origen": ""
     }
   ],
-  "hash_datos": "15e97604b4ac7983809fa10f1591c76bf2985cefde7a6618e3193c5e36fee32d",
+  "hash_datos": "7fa679046b314fbd07d67ea7a3eab697d00df44ac7b7f841b555ab3f40a4a699",
   "estado": "cache_local",
   "archivo": "incidentes.json"
 }

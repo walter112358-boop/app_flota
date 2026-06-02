@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-05-15T12:44:03.783175-03:00",
+  "actualizado_en": "2026-06-02T10:51:49.162376-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -20,9 +20,9 @@
     {
       "DEPENDENCIA": "ESTACION I (101)",
       "INTERNO": "8371",
-      "MARCA": "9999999",
-      "MODELO": "prueba",
-      "UTILIDAD": "fdfd",
+      "MARCA": "",
+      "MODELO": "prueb_6",
+      "UTILIDAD": "555555",
       "CARROZADO": "ARD",
       "BOMBA": "ROSENBAUER",
       "DEPENDENCIA ACTUAL": "ESTACION VI (Prestamo)",
@@ -34,10 +34,10 @@
     {
       "DEPENDENCIA": "ESTACION IV (402)",
       "INTERNO": "8371",
-      "MARCA": "IVECO",
-      "MODELO": "prueba",
-      "UTILIDAD": "cambio",
-      "CARROZADO": "ddd",
+      "MARCA": "",
+      "MODELO": "4",
+      "UTILIDAD": "rumm",
+      "CARROZADO": "amodil",
       "BOMBA": "AGE",
       "DEPENDENCIA ACTUAL": "ESTACION IV",
       "ESTADO": "P/S",
@@ -46,10 +46,10 @@
       "tanque": ""
     },
     {
-      "DEPENDENCIA": "ESTACION II",
+      "DEPENDENCIA": "ESTACION II (301)",
       "INTERNO": "2640",
-      "MARCA": "IVECOOO",
-      "MODELO": "T. ATTACK 170e22",
+      "MARCA": "Wal",
+      "MODELO": "T. ATT",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "ARD",
       "BOMBA": "ROSENBAUER",
@@ -62,8 +62,8 @@
     {
       "DEPENDENCIA": "ESTACION II",
       "INTERNO": "2651",
-      "MARCA": "MERCEDEZ BENZ",
-      "MODELO": "1720",
+      "MARCA": "terñico",
+      "MODELO": "172",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "TECIN",
       "BOMBA": "ROSENBAUER",
@@ -76,7 +76,7 @@
     {
       "DEPENDENCIA": "ESTACION II",
       "INTERNO": "2672",
-      "MARCA": "MERCEDEZ BENZ",
+      "MARCA": "MERCED",
       "MODELO": "1720",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "TECIN",
@@ -91,7 +91,7 @@
       "DEPENDENCIA": "ESTACION III",
       "INTERNO": "2641",
       "MARCA": "IVECO",
-      "MODELO": "TECTOR 170e28",
+      "MODELO": "TECTOR 1789",
       "UTILIDAD": "efefert54t5t",
       "CARROZADO": "TECHNIQUES & SUPPLIES",
       "BOMBA": "ROSENBAUER",
@@ -103,11 +103,11 @@
     },
     {
       "DEPENDENCIA": "ESTACION XI",
-      "INTERNO": "9173",
-      "MARCA": "MERCEDEZ BENZ",
-      "MODELO": "710",
+      "INTERNO": "ttt",
+      "MARCA": "pier",
+      "MODELO": "Carrera",
       "UTILIDAD": "AUTOBOMBA PESADA",
-      "CARROZADO": "TECIN",
+      "CARROZADO": "nuevo",
       "BOMBA": "ROSENBAUER",
       "DEPENDENCIA ACTUAL": "ESTACION XI",
       "ESTADO": "P/S",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "ed57d5752398b5b9488ce4d1738e1520d2539efb92371e5915a5221137acc7e1",
+  "hash_datos": "4b92de8ce2d8b11f5d6d83a49a5d6022bcae81ee2f04e7fb75cd2f95b1550abf",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }

@@ -1,7 +1,7 @@
 {
   "nombre": "carrozado",
   "version": 1,
-  "actualizado_en": "2026-05-15T10:48:40.787912-03:00",
+  "actualizado_en": "2026-06-02T10:40:54.342140-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -24,8 +24,8 @@
     {
       "DEPENDENCIA": "ESTACION II",
       "INTERNO": "nuevo",
-      "DOMINIO": "prueba",
-      "MARCA": "prueba",
+      "DOMINIO": "_4",
+      "MARCA": "prueb_4",
       "MODELO": "T. ATTACK 170e22",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "ARD"
@@ -436,7 +436,7 @@
       "CARROZADO": "TECIN"
     }
   ],
-  "hash_datos": "75c712354d7ec419bec4fd6b2b8a9086925fabc0920132cf03dbe68e35375682",
+  "hash_datos": "8a9c6006aef66f9fa82260e23c999bf767311b0e1d9a0f92feeb7a73e6182f1f",
   "estado": "cache_local",
   "archivo": "carrozado.json"
 }

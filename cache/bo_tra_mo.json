@@ -1,7 +1,7 @@
 {
   "nombre": "bo_tra_mo",
   "version": 1,
-  "actualizado_en": "2026-05-15T10:48:41.044758-03:00",
+  "actualizado_en": "2026-06-02T10:40:54.618235-03:00",
   "columnas": [
     "MARCA / MODELO",
     "INTERNO",
@@ -24,8 +24,8 @@
     {
       "MARCA / MODELO": "SEMIRRIGIDO HIFEI",
       "INTERNO": "nuevo",
-      "TIPO": "prueba",
-      "ESTADO": "prueba",
+      "TIPO": "prueb_5",
+      "ESTADO": "prueb_6",
       "AVERIA": "-///-",
       "DESCRIPCION": "-///-",
       "DEPENDENCIA ACTUAL": "ESTACION III"
@@ -400,7 +400,7 @@
       "DEPENDENCIA ACTUAL": "GER CABALLITO"
     }
   ],
-  "hash_datos": "ce8f1966e8eaad3eeb502a171a8049cace7266b0b1764fd047a0ab373eb4bc92",
+  "hash_datos": "97d24a7729122e21c80295b33be6cce9484676e0c0b38962d99416c08c0e779e",
   "estado": "cache_local",
   "archivo": "bo_tra_mo.json"
 }

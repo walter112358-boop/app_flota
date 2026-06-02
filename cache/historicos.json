@@ -1,7 +1,7 @@
 {
   "nombre": "historicos",
   "version": 1,
-  "actualizado_en": "2026-05-15T10:48:41.194225-03:00",
+  "actualizado_en": "2026-06-02T10:40:54.775727-03:00",
   "columnas": [
     "FECHA SOLICITUD",
     "INTERNO",
@@ -18,7 +18,7 @@
   "filas": [
     {
       "FECHA SOLICITUD": "2024-01-02",
-      "INTERNO": "2129",
+      "INTERNO": "Prueba_5",
       "DOMINIO": "AA-719-UN",
       "MARCA": "RANGER",
       "KM": "82894",
@@ -22832,7 +22832,7 @@
       "TALLER": "ARDILES"
     }
   ],
-  "hash_datos": "5fbbfc0e4433079a8b35f1ba9f3bebbe278eb4cee5a6227bc76f1b2a7c175089",
+  "hash_datos": "e02461f5ce6177674da08a034bdee104b6c551fd87edcf0bd8c77e5c8d70b746",
   "estado": "cache_local",
   "archivo": "historicos.json"
 }

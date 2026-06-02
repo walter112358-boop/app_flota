@@ -33,7 +33,7 @@
     },
     {
       "tab_id": "incidentes",
-      "nombre": "Siniestros",
+      "nombre": "PRUEBA",
       "columnas": [
         "FECHA",
         "INTERNO",
