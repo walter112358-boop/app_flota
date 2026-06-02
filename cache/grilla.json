@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-02T10:52:11.741195-03:00",
+  "actualizado_en": "2026-06-02T13:12:45.495973-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -20,7 +20,7 @@
     {
       "DEPENDENCIA": "ESTACION I (101)",
       "INTERNO": "8371",
-      "MARCA": "",
+      "MARCA": "gfergerger",
       "MODELO": "prueb_6",
       "UTILIDAD": "555555",
       "CARROZADO": "ARD",
@@ -34,7 +34,7 @@
     {
       "DEPENDENCIA": "ESTACION IV (402)",
       "INTERNO": "8371",
-      "MARCA": "",
+      "MARCA": "rgrgerge",
       "MODELO": "99999",
       "UTILIDAD": "rumm",
       "CARROZADO": "amodil",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "f0a2b429cf24899bade27eb3b131adcd4f5a7f288adcff9f18956b8a07bd606d",
+  "hash_datos": "5acf46090f78d1355ea2350280f8df3fcb2bbf4dd999742c106f9c2bef6d1da0",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
