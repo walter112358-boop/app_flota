@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-02T10:51:49.162376-03:00",
+  "actualizado_en": "2026-06-02T10:52:11.741195-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -35,7 +35,7 @@
       "DEPENDENCIA": "ESTACION IV (402)",
       "INTERNO": "8371",
       "MARCA": "",
-      "MODELO": "4",
+      "MODELO": "99999",
       "UTILIDAD": "rumm",
       "CARROZADO": "amodil",
       "BOMBA": "AGE",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "4b92de8ce2d8b11f5d6d83a49a5d6022bcae81ee2f04e7fb75cd2f95b1550abf",
+  "hash_datos": "f0a2b429cf24899bade27eb3b131adcd4f5a7f288adcff9f18956b8a07bd606d",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
