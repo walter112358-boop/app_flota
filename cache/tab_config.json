@@ -5,15 +5,18 @@
       "tab_id": "grilla",
       "nombre": "Grilla",
       "columnas": [
+        "DEPENDENCIA",
         "INTERNO",
-        "DEP. ORIGEN",
-        "DEP. ACTUAL",
-        "ESTADO",
-        "UNIDAD",
         "MARCA",
         "MODELO",
+        "UTILIDAD",
+        "CARROZADO",
+        "BOMBA",
+        "DEPENDENCIA ACTUAL",
+        "ESTADO",
+        "OBSERVACIONES",
         "TALLER",
-        "OBSERVACIONES"
+        "tanque"
       ],
       "tipo_base": "Grilla",
       "bootstrap_relpath": ""
@@ -22,24 +25,48 @@
       "tab_id": "carrozado",
       "nombre": "Carrozado",
       "columnas": [
-        "FECHA",
+        "DEPENDENCIA",
         "INTERNO",
-        "TRABAJO",
-        "ESTADO",
-        "OBSERVACIONES"
+        "DOMINIO",
+        "MARCA",
+        "MODELO",
+        "UTILIDAD",
+        "CARROZADO"
       ],
       "tipo_base": "Carrozado",
       "bootstrap_relpath": ""
     },
     {
       "tab_id": "incidentes",
-      "nombre": "PRUEBA",
+      "nombre": "siniestros",
       "columnas": [
-        "FECHA",
         "INTERNO",
-        "INCIDENTE",
-        "LUGAR",
-        "OBSERVACIONES"
+        "INF",
+        "3RO LESIONADOS",
+        "DOMINIO",
+        "NRO STRO",
+        "FECHA",
+        "HORA",
+        "CARACTERISTICAS",
+        "NOMBRE CONDUCTOR",
+        "APELLIDO COND.",
+        "DNI",
+        "SEXO",
+        "LCIA VTE DESDE",
+        "LCIA VTE HASTA",
+        "FECHA DE NAC.",
+        "CANT. DE VH",
+        "PATENTE DEL 3RO",
+        "ASEGURADORA DEL 3RO",
+        "APELLIDO, NOMBRE Y DNI",
+        "CALLE / INTERSECCION",
+        "Nº",
+        "PCIA",
+        "FORMA DE OCURRENCIA",
+        "DEPENDENCIA",
+        "AUXILIAR",
+        "FECHA_2",
+        "dependencia de origen"
       ],
       "tipo_base": "Incidentes",
       "bootstrap_relpath": ""
@@ -63,11 +90,17 @@
       "tab_id": "historicos",
       "nombre": "Historicos",
       "columnas": [
-        "FECHA",
+        "FECHA SOLICITUD",
         "INTERNO",
-        "EVENTO",
-        "DETALLE",
-        "OBSERVACIONES"
+        "DOMINIO",
+        "MARCA",
+        "KM",
+        "DEPENDENCIA",
+        "DESCRIPCION",
+        "FECHA ASIGNACION",
+        "INGRESO",
+        "EGRESO",
+        "TALLER"
       ],
       "tipo_base": "Historicos",
       "bootstrap_relpath": ""
@@ -76,11 +109,15 @@
       "tab_id": "gh_ytorres",
       "nombre": "GH yTorres",
       "columnas": [
-        "FECHA",
-        "INTERNO",
-        "EQUIPO",
-        "ESTADO",
-        "OBSERVACIONES"
+        "DEPENDENCIA",
+        "MARCA",
+        "MODELO",
+        "POTENCIA",
+        "FASES",
+        "MOVIL PARA TRANSLADO",
+        "PARA EL SERVICIO",
+        "FUERA DE SERVICIO",
+        "TIPO"
       ],
       "tipo_base": "GH yTorres",
       "bootstrap_relpath": ""

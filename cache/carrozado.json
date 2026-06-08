@@ -1,7 +1,7 @@
 {
   "nombre": "carrozado",
   "version": 1,
-  "actualizado_en": "2026-06-02T15:04:46.989691-03:00",
+  "actualizado_en": "2026-06-08T18:41:08.949934-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -14,7 +14,7 @@
   "filas": [
     {
       "DEPENDENCIA": "ESTACION I",
-      "INTERNO": "2643 IVECON",
+      "INTERNO": "2643",
       "DOMINIO": "AB-700-OZ",
       "MARCA": "IVECO",
       "MODELO": "170E28NCM51",
@@ -23,9 +23,9 @@
     },
     {
       "DEPENDENCIA": "ESTACION II",
-      "INTERNO": "nuevo",
-      "DOMINIO": "_4",
-      "MARCA": "prueb_4",
+      "INTERNO": "2640",
+      "DOMINIO": "PCK-885",
+      "MARCA": "IVECO",
       "MODELO": "T. ATTACK 170e22",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "ARD"
@@ -188,7 +188,7 @@
       "INTERNO": "9005",
       "DOMINIO": "IHE-450",
       "MARCA": "IVECO",
-      "MODELO": "CAVALLINO  180 E32",
+      "MODELO": "CAVALLINO 180 E32",
       "UTILIDAD": "ALIMENTACION",
       "CARROZADO": "TECHNIQUES & SUPPLIES"
     },
@@ -197,7 +197,7 @@
       "INTERNO": "9000",
       "DOMINIO": "HHJ-183",
       "MARCA": "IVECO",
-      "MODELO": "CAVALLINO  180 E32",
+      "MODELO": "CAVALLINO 180 E32",
       "UTILIDAD": "ALIMENTACION",
       "CARROZADO": "TECHNIQUES & SUPPLIES"
     },
@@ -233,7 +233,7 @@
       "INTERNO": "9004",
       "DOMINIO": "IHE-449",
       "MARCA": "IVECO",
-      "MODELO": "CAVALLINO  180 E32",
+      "MODELO": "CAVALLINO 180 E32",
       "UTILIDAD": "ALIMENTACION",
       "CARROZADO": "TECHNIQUES & SUPPLIES"
     },
@@ -436,7 +436,7 @@
       "CARROZADO": "TECIN"
     }
   ],
-  "hash_datos": "8a9c6006aef66f9fa82260e23c999bf767311b0e1d9a0f92feeb7a73e6182f1f",
+  "hash_datos": "e6e8aa0a70c80bf2cec197894195c6595c566d0432acf0d4d103d8e229176090",
   "estado": "cache_local",
   "archivo": "carrozado.json"
 }
