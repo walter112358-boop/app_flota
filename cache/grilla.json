@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-02T13:12:45.495973-03:00",
+  "actualizado_en": "2026-06-02T15:04:46.814053-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -20,7 +20,7 @@
     {
       "DEPENDENCIA": "ESTACION I (101)",
       "INTERNO": "8371",
-      "MARCA": "gfergerger",
+      "MARCA": "gfergergeruurthrt",
       "MODELO": "prueb_6",
       "UTILIDAD": "555555",
       "CARROZADO": "ARD",
@@ -2230,7 +2230,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "5acf46090f78d1355ea2350280f8df3fcb2bbf4dd999742c106f9c2bef6d1da0",
+  "hash_datos": "0bd90e20d8638b889e13969125a1fd0296546088a9bd8b431c69cc7509de8f7d",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
