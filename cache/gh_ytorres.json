@@ -1,7 +1,7 @@
 {
   "nombre": "gh_ytorres",
   "version": 1,
-  "actualizado_en": "2026-06-08T18:54:31.128886-03:00",
+  "actualizado_en": "2026-06-10T09:23:27.965682-03:00",
   "columnas": [
     "DEPENDENCIA",
     "MARCA",
@@ -19,17 +19,6 @@
       "MARCA": "GAMMA IVECON",
       "MODELO": "3500V",
       "POTENCIA": "2,8KVA",
-      "FASES": "MONOFASICO",
-      "MOVIL PARA TRANSLADO": "SI",
-      "PARA EL SERVICIO": "SI",
-      "FUERA DE SERVICIO": "",
-      "TIPO": "GRUPO ELECTROGENO"
-    },
-    {
-      "DEPENDENCIA": "ESTACION I \"PUERTO MADERO\"",
-      "MARCA": "nuevo",
-      "MODELO": "prueba",
-      "POTENCIA": "prueba",
       "FASES": "MONOFASICO",
       "MOVIL PARA TRANSLADO": "SI",
       "PARA EL SERVICIO": "SI",
@@ -653,7 +642,7 @@
       "TIPO": "GRUPO ELECTROGENO"
     }
   ],
-  "hash_datos": "73cb03f46340a3b0db1a07dd12bc1eabaa74d06d44698a600d0185ef824efe77",
+  "hash_datos": "0a27fc2f922f18423578b6c420758ea830d4f1abf2d23d3de991e4124944b513",
   "estado": "cache_local",
   "archivo": "gh_ytorres.json"
 }
