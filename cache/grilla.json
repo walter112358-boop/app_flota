@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-10T08:47:33.906235-03:00",
+  "actualizado_en": "2026-06-10T09:33:25.404408-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -19,7 +19,7 @@
   "filas": [
     {
       "DEPENDENCIA": "ESTACION IX",
-      "INTERNO": "274_5",
+      "INTERNO": "2745",
       "MARCA": "IVECO",
       "MODELO": "4 x 2",
       "UTILIDAD": "AUTOBOMBA PESADA",
@@ -2258,7 +2258,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "d79b8d223e95613296dd958150ed21d33557d2ca7cafd44a6877d6663b73eebb",
+  "hash_datos": "c328af5f94766c5ec3fc4ca5a9c5de4d4e23240c62c2ec3c60ae141b16504585",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
