@@ -1,7 +1,7 @@
 {
   "nombre": "historicos",
   "version": 1,
-  "actualizado_en": "2026-06-10T10:40:52.580223-03:00",
+  "actualizado_en": "2026-06-12T17:00:51.773678-03:00",
   "columnas": [
     "FECHA SOLICITUD",
     "INTERNO",
@@ -26053,10 +26053,10 @@
       "FECHA ASIGNACION": "2026-05-26",
       "INGRESO": "2026-05-27",
       "EGRESO": "2026-05-29",
-      "TALLER": "MASTER SUSPENSIÓNn"
+      "TALLER": "MASTER SUSPENSIÓN"
     }
   ],
-  "hash_datos": "3d13b9a2d7e2641c33f36630627b7a1e67a76621dbb24d3541cede2f050f25a8",
+  "hash_datos": "3e3963f9553a5a94438fdcf02c04764ffd90071da534465ddc560bb042cce5fe",
   "estado": "cache_local",
   "archivo": "historicos.json"
 }

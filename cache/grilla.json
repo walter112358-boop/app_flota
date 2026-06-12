@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-10T10:37:54.786028-03:00",
+  "actualizado_en": "2026-06-12T17:04:33.029184-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -43,7 +43,7 @@
       "ESTADO": "P/S",
       "OBSERVACIONES": "",
       "TALLER": "",
-      "tanque": ""
+      "tanque": "4500"
     },
     {
       "DEPENDENCIA": "ESTACION IV",
@@ -2258,7 +2258,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "a9f38982de2ed6854f35a8775e2501369adeef24ba5619cf49c9ee09a4b4ae73",
+  "hash_datos": "4dc41a7a263b23a3c6765d07b93ebda47f7d903403db7f3026d72662beb42ad1",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
