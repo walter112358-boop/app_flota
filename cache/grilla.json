@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-22T10:30:06.391433-03:00",
+  "actualizado_en": "2026-06-22T10:35:08.675300-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -1249,7 +1249,7 @@
       "DEPENDENCIA ACTUAL": "OCCF",
       "ESTADO": "F/S",
       "OBSERVACIONES": "(CAMBIO TANQUE DE AGUA) PERDIDA EXCESIVA DE AGUA Y RUPTURA DE PERSIANAS",
-      "TALLER": "INGRESO TALLER ANDRES 05/06/26"
+      "TALLER": " A INGRESO TALLER ANDRES 05/06/26"
     },
     {
       "DEPENDENCIA": "ESTACION VIII",
@@ -2097,7 +2097,7 @@
       "TALLER": ""
     }
   ],
-  "hash_datos": "bfeba0923be8eed784101c3b52c804a2a8ac5b2de57a807caeaf97d69223dbc4",
+  "hash_datos": "53d51fbbb4e4ea16aec2844884ab95ab175e640b796c42067d86db1d50687232",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
