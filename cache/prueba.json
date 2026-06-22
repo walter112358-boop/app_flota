@@ -1,0 +1,30 @@
+{
+  "nombre": "prueba",
+  "version": 1,
+  "actualizado_en": "2026-06-22T11:36:15.949815-03:00",
+  "columnas": [
+    "herramientas",
+    "CAMPO 2",
+    "OBSERVACIONES"
+  ],
+  "filas": [
+    {
+      "herramientas": "85285282",
+      "CAMPO 2": "",
+      "OBSERVACIONES": ""
+    },
+    {
+      "herramientas": "8/58852",
+      "CAMPO 2": "8/58/57/5",
+      "OBSERVACIONES": ""
+    },
+    {
+      "herramientas": "",
+      "CAMPO 2": "",
+      "OBSERVACIONES": ""
+    }
+  ],
+  "hash_datos": "1a3fe305614273605be6b0c96c2c5347ed8ef6c2d04f63ec0b38a6b81f98fc2f",
+  "estado": "cache_local",
+  "archivo": "prueba.json"
+}
