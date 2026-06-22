@@ -104,17 +104,6 @@
       "bootstrap_relpath": ""
     },
     {
-      "tab_id": "prueba",
-      "nombre": "prueba",
-      "columnas": [
-        "CAMPO 1",
-        "CAMPO 2",
-        "OBSERVACIONES"
-      ],
-      "tipo_base": "custom",
-      "bootstrap_relpath": ""
-    },
-    {
       "tab_id": "historicos",
       "nombre": "Historicos",
       "columnas": [
