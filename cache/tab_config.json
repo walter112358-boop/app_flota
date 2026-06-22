@@ -87,6 +87,23 @@
       "bootstrap_relpath": "data_tabs/bo_tra_mo.json"
     },
     {
+      "tab_id": "gh_ytorres",
+      "nombre": "GH yTorres",
+      "columnas": [
+        "DEPENDENCIA",
+        "MARCA",
+        "MODELO",
+        "POTENCIA",
+        "FASES",
+        "MOVIL PARA TRANSLADO",
+        "PARA EL SERVICIO",
+        "FUERA DE SERVICIO",
+        "TIPO"
+      ],
+      "tipo_base": "GH yTorres",
+      "bootstrap_relpath": ""
+    },
+    {
       "tab_id": "historicos",
       "nombre": "Historicos",
       "columnas": [
@@ -103,23 +120,6 @@
         "TALLER"
       ],
       "tipo_base": "Historicos",
-      "bootstrap_relpath": ""
-    },
-    {
-      "tab_id": "gh_ytorres",
-      "nombre": "GH yTorres",
-      "columnas": [
-        "DEPENDENCIA",
-        "MARCA",
-        "MODELO",
-        "POTENCIA",
-        "FASES",
-        "MOVIL PARA TRANSLADO",
-        "PARA EL SERVICIO",
-        "FUERA DE SERVICIO",
-        "TIPO"
-      ],
-      "tipo_base": "GH yTorres",
       "bootstrap_relpath": ""
     }
   ]

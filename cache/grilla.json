@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-12T17:04:33.029184-03:00",
+  "actualizado_en": "2026-06-22T09:41:05.230559-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -43,12 +43,12 @@
       "ESTADO": "P/S",
       "OBSERVACIONES": "",
       "TALLER": "",
-      "tanque": "4500"
+      "tanque": ""
     },
     {
       "DEPENDENCIA": "ESTACION IV",
       "INTERNO": "8371",
-      "MARCA": "AGRALE",
+      "MARCA": "AGRA",
       "MODELO": "A 8700",
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "TECHNIQUES & SUPPLIES",
@@ -2258,7 +2258,7 @@
       "tanque": ""
     }
   ],
-  "hash_datos": "4dc41a7a263b23a3c6765d07b93ebda47f7d903403db7f3026d72662beb42ad1",
+  "hash_datos": "eac13b77cd57af6dd064e04544e93d5d2134f8bf54210470fe3b7c821095ce05",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
