@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-22T11:27:21.736712-03:00",
+  "actualizado_en": "2026-06-22T11:46:11.442472-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -661,7 +661,7 @@
       "UTILIDAD": "AUTOBOMBA PESADA",
       "CARROZADO": "TECIN",
       "BOMBA": "WATEROUS",
-      "DEPENDENCIA ACTUAL": "ESTACION XI",
+      "DEPENDENCIA ACTUAL": "OCCF",
       "ESTADO": "P/S",
       "OBSERVACIONES": "",
       "TALLER": ""
@@ -2084,7 +2084,7 @@
       "TALLER": ""
     }
   ],
-  "hash_datos": "a73e9f8700e5e122cb4a8baa9103c91a37e90b2517601bec61c2ae41b3e13127",
+  "hash_datos": "183fadb505078384db9f697a0911d0f03b38e8ec665d2d715265a594fa22313d",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
