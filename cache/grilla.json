@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-06-22T10:35:08.675300-03:00",
+  "actualizado_en": "2026-06-22T10:39:05.928284-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -338,7 +338,7 @@
       "BOMBA": "WATEROUS",
       "DEPENDENCIA ACTUAL": "DTO. BOCA",
       "ESTADO": "P/S",
-      "OBSERVACIONES": "",
+      "OBSERVACIONES": "ESTEFI ES LA MEJOR ",
       "TALLER": ""
     },
     {
@@ -2097,7 +2097,7 @@
       "TALLER": ""
     }
   ],
-  "hash_datos": "53d51fbbb4e4ea16aec2844884ab95ab175e640b796c42067d86db1d50687232",
+  "hash_datos": "6ef87ce3b5d8861e4190495c02a9d68dbe8e69a7bf0a567c2624b44c07772a14",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
