@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-07-08T16:54:22.473280-03:00",
+  "actualizado_en": "2026-09-02T15:38:04.555331-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -224,7 +224,7 @@
       "DEPENDENCIA ACTUAL": "ESTACION X",
       "ESTADO": "P/S",
       "OBSERVACIONES": "",
-      "TALLER": "EGRESO 29/05/26 DE TALLER TECHNIQUE SUPPLIES",
+      "TALLER": "",
       "AAAA": "",
       "BBBBB": ""
     },
@@ -2404,7 +2404,7 @@
       "BBBBB": ""
     }
   ],
-  "hash_datos": "6e9473b9eb04c84db5cf8ee491c2cc4c7952b72d4586e235e7cb2032486385c4",
+  "hash_datos": "46b560738cb6830c2e8794dc70ec619bdc813888ca4e45f07068c4244d4b8ba8",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
