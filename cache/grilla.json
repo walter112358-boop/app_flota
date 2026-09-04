@@ -1,7 +1,7 @@
 {
   "nombre": "grilla",
   "version": 1,
-  "actualizado_en": "2026-09-02T15:41:14.067171-03:00",
+  "actualizado_en": "2026-09-04T09:59:24.311301-03:00",
   "columnas": [
     "DEPENDENCIA",
     "INTERNO",
@@ -118,7 +118,7 @@
       "BOMBA": "",
       "DEPENDENCIA ACTUAL": "ESTACION III",
       "ESTADO": "P/S",
-      "OBSERVACIONES": "",
+      "OBSERVACIONES": "CASTELLANO",
       "TALLER": "",
       "AAAA": "",
       "BBBBB": ""
@@ -2404,7 +2404,7 @@
       "BBBBB": ""
     }
   ],
-  "hash_datos": "46b560738cb6830c2e8794dc70ec619bdc813888ca4e45f07068c4244d4b8ba8",
+  "hash_datos": "5f2b51935a0984907ca263ce078ffe0636e29508a3e4e3e6e717ace8096bf944",
   "estado": "cache_local",
   "archivo": "grilla.json"
 }
